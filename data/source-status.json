@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:33:33.248874Z",
+  "generated_at": "2026-07-03T19:47:50.835556Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -13,27 +13,27 @@
     },
     {
       "id": "nasa-eonet-wildfires",
-      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-floods",
-      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-storms",
-      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-volcanoes",
-      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
@@ -48,8 +48,8 @@
     },
     {
       "id": "nasa-epic",
-      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
-      "event_count": 0
+      "status": "live",
+      "event_count": 10
     },
     {
       "id": "airnow-api",
