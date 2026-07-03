@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-02T19:50:08.735989Z",
+  "generated_at": "2026-07-03T04:06:39.718008Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
       "status": "live",
-      "event_count": 20
+      "event_count": 19
     },
     {
       "id": "usgs-earthquakes-all-day",
@@ -24,7 +24,7 @@
     {
       "id": "nasa-eonet-storms",
       "status": "live",
-      "event_count": 20
+      "event_count": 11
     },
     {
       "id": "nasa-eonet-volcanoes",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: Expecting value: line 1 column 1 (char 0)",
+      "status": "error: HTTP Error 429: Too Many Requests",
       "event_count": 0
     },
     {
