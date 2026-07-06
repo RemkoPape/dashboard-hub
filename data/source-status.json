@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:00:49.006128Z",
+  "generated_at": "2026-07-06T15:54:13.180559Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -33,7 +33,7 @@
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "error: HTTP Error 503: Service Unavailable",
+      "status": "live",
       "event_count": 0
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: HTTP Error 429: Too Many Requests",
+      "status": "error: Expecting value: line 1 column 1 (char 0)",
       "event_count": 0
     },
     {
