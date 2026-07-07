@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:15:30.513235Z",
+  "generated_at": "2026-07-07T09:59:31.853423Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -13,27 +13,27 @@
     },
     {
       "id": "nasa-eonet-wildfires",
-      "status": "live",
-      "event_count": 20
+      "status": "error: HTTP Error 503: Service Unavailable",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-floods",
-      "status": "live",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-storms",
-      "status": "live",
-      "event_count": 20
+      "status": "error: HTTP Error 503: Service Unavailable",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-volcanoes",
-      "status": "live",
-      "event_count": 9
+      "status": "error: HTTP Error 503: Service Unavailable",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "live",
+      "status": "error: HTTP Error 503: Service Unavailable",
       "event_count": 0
     },
     {
