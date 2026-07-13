@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:29:25.640418Z",
+  "generated_at": "2026-07-13T03:57:42.160636Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: HTTP Error 429: Too Many Requests",
+      "status": "error: <urlopen error timed out>",
       "event_count": 0
     },
     {
