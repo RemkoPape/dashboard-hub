@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:31:37.178774Z",
+  "generated_at": "2026-07-19T13:51:40.169838Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -24,7 +24,7 @@
     {
       "id": "nasa-eonet-storms",
       "status": "live",
-      "event_count": 16
+      "event_count": 17
     },
     {
       "id": "nasa-eonet-volcanoes",
