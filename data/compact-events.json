@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:01:42.185120Z",
-  "event_count": 114,
+  "generated_at": "2026-07-20T09:32:21.274620Z",
+  "event_count": 115,
   "events": [
     {
       "event_id": "us7000t1q7",
@@ -541,7 +541,7 @@
       "event_type": "natural_hazard",
       "subtype": "earthquake",
       "date_start": 1782338711743,
-      "date_updated": 1784516586199,
+      "date_updated": 1784520299671,
       "country": "",
       "region": "20 km ESE of Yumare, Venezuela",
       "latitude": 10.5086,
@@ -659,185 +659,21 @@
       ]
     },
     {
-      "event_id": "nc75399336",
-      "title": "M 1.2 - 9 km WNW of Cobb, CA",
+      "event_id": "ci40658250",
+      "title": "M 1.7 - 17 km WSW of Johannesburg, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784519840030,
-      "date_updated": 1784519936360,
-      "country": "",
-      "region": "9 km WNW of Cobb, CA",
-      "latitude": 38.8498344421387,
-      "longitude": -122.825164794922,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399336",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399336",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "aka2026ofsgvh",
-      "title": "M 3.3 - 17 km NW of Susitna, Alaska",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784519797359,
-      "date_updated": 1784519960711,
-      "country": "",
-      "region": "17 km NW of Susitna, Alaska",
-      "latitude": 61.644,
-      "longitude": -150.755,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofsgvh",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofsgvh",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "nc75399326",
-      "title": "M 1.5 - 9 km SSE of San Juan Bautista, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784518457590,
-      "date_updated": 1784519541730,
-      "country": "",
-      "region": "9 km SSE of San Juan Bautista, CA",
-      "latitude": 36.7695007324219,
-      "longitude": -121.508499145508,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399326",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399326",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "tx2026odjlgk",
-      "title": "M 1.5 - 25 km ESE of Christine, Texas",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784516829975,
-      "date_updated": 1784520010391,
-      "country": "",
-      "region": "25 km ESE of Christine, Texas",
-      "latitude": 28.721,
-      "longitude": -98.25,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odjlgk",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odjlgk",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "ci40658130",
-      "title": "M 1.5 - 17 km WSW of Johannesburg, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784516406340,
-      "date_updated": 1784516623351,
+      "date_start": 1784539697750,
+      "date_updated": 1784539872730,
       "country": "",
       "region": "17 km WSW of Johannesburg, CA",
-      "latitude": 35.3185,
-      "longitude": -117.807166666667,
+      "latitude": 35.3166656494141,
+      "longitude": -117.813835144043,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658130",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658250",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -858,27 +694,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658130",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658250",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "ci40658122",
-      "title": "M 0.5 - 23 km ESE of Little Lake, CA",
+      "event_id": "aka2026ogdblh",
+      "title": "M 1.9 - 33 km NNW of Beluga, Alaska",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784516260970,
-      "date_updated": 1784516464817,
+      "date_start": 1784539215856,
+      "date_updated": 1784539301866,
       "country": "",
-      "region": "23 km ESE of Little Lake, CA",
-      "latitude": 35.8698333333333,
-      "longitude": -117.664833333333,
+      "region": "33 km NNW of Beluga, Alaska",
+      "latitude": 61.401,
+      "longitude": -151.406,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658122",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogdblh",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -899,27 +735,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658122",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogdblh",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "ci40658114",
-      "title": "M 1.0 - 17 km WSW of Johannesburg, CA",
+      "event_id": "ci40658234",
+      "title": "M 0.2 - 4 km WSW of Anza, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784515304280,
-      "date_updated": 1784515514471,
+      "date_start": 1784539072000,
+      "date_updated": 1784539271476,
       "country": "",
-      "region": "17 km WSW of Johannesburg, CA",
-      "latitude": 35.3216666666667,
-      "longitude": -117.810333333333,
+      "region": "4 km WSW of Anza, CA",
+      "latitude": 33.5385,
+      "longitude": -116.709166666667,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658114",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658234",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -940,27 +776,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658114",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658234",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "nc75399316",
-      "title": "M 2.5 - 3 km ESE of Kenwood, CA",
+      "event_id": "tx2026odvkzf",
+      "title": "M 2.4 - 14 km SSW of Jal, New Mexico",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784514498390,
-      "date_updated": 1784515340239,
+      "date_start": 1784538531168,
+      "date_updated": 1784538778123,
       "country": "",
-      "region": "3 km ESE of Kenwood, CA",
-      "latitude": 38.4048347473145,
-      "longitude": -122.518997192383,
+      "region": "14 km SSW of Jal, New Mexico",
+      "latitude": 31.992,
+      "longitude": -103.244,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399316",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odvkzf",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -981,27 +817,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399316",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odvkzf",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "ci40658106",
-      "title": "M 0.8 - 23 km NE of Thermal, CA",
+      "event_id": "tx2026odvdxf",
+      "title": "M 1.5 - 7 km WNW of Westbrook, Texas",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784514180560,
-      "date_updated": 1784514383127,
+      "date_start": 1784538052245,
+      "date_updated": 1784538229825,
       "country": "",
-      "region": "23 km NE of Thermal, CA",
-      "latitude": 33.7655,
-      "longitude": -115.944166666667,
+      "region": "7 km WNW of Westbrook, Texas",
+      "latitude": 32.389,
+      "longitude": -101.081,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658106",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odvdxf",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1022,27 +858,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658106",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odvdxf",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "nc75399311",
-      "title": "M 1.4 - 5 km NNW of The Geysers, CA",
+      "event_id": "aka2026ogchvc",
+      "title": "M 1.7 - 37 km WNW of Akhiok, Alaska",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784513796690,
-      "date_updated": 1784515339238,
+      "date_start": 1784537858015,
+      "date_updated": 1784537973102,
       "country": "",
-      "region": "5 km NNW of The Geysers, CA",
-      "latitude": 38.8191680908203,
-      "longitude": -122.789001464844,
+      "region": "37 km WNW of Akhiok, Alaska",
+      "latitude": 57.123,
+      "longitude": -154.699,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399311",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogchvc",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1063,27 +899,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399311",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogchvc",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "nc75399306",
-      "title": "M 1.1 - 9 km NW of Redwood Valley, CA",
+      "event_id": "ci40658226",
+      "title": "M 0.4 - 16 km ESE of Anza, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784513758850,
-      "date_updated": 1784513855760,
+      "date_start": 1784537216160,
+      "date_updated": 1784537415614,
       "country": "",
-      "region": "9 km NW of Redwood Valley, CA",
-      "latitude": 39.3286666870117,
-      "longitude": -123.276000976562,
+      "region": "16 km ESE of Anza, CA",
+      "latitude": 33.5131666666667,
+      "longitude": -116.503333333333,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399306",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658226",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1104,27 +940,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399306",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658226",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "ci40658098",
-      "title": "M 1.1 - 14 km SSW of Joshua Tree, CA",
+      "event_id": "tx2026odumbl",
+      "title": "M 2.2 - 48 km SSE of Whites City, New Mexico",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784513740860,
-      "date_updated": 1784513944330,
+      "date_start": 1784536830078,
+      "date_updated": 1784538122031,
       "country": "",
-      "region": "14 km SSW of Joshua Tree, CA",
-      "latitude": 34.0116666666667,
-      "longitude": -116.3435,
+      "region": "48 km SSE of Whites City, New Mexico",
+      "latitude": 31.761,
+      "longitude": -104.229,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658098",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odumbl",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1145,27 +981,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658098",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odumbl",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "hv75004577",
-      "title": "M 2.0 - 31 km ENE of Honaunau-Napoopoo, Hawaii",
+      "event_id": "aka2026ogamrj",
+      "title": "M 2.3 - 8 km N of Fritz Creek, Alaska",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784513273800,
-      "date_updated": 1784513480750,
+      "date_start": 1784534595194,
+      "date_updated": 1784534788553,
       "country": "",
-      "region": "31 km ENE of Honaunau-Napoopoo, Hawaii",
-      "latitude": 19.5195007324219,
-      "longitude": -155.570831298828,
+      "region": "8 km N of Fritz Creek, Alaska",
+      "latitude": 59.811,
+      "longitude": -151.32,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004577",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogamrj",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1186,27 +1022,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004577",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogamrj",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "hv75004582",
-      "title": "M 2.1 - 32 km E of Honaunau-Napoopoo, Hawaii",
+      "event_id": "tx2026odtbkn",
+      "title": "M 1.3 - 16 km NW of Midland, Texas",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784513269890,
-      "date_updated": 1784513482820,
+      "date_start": 1784534244251,
+      "date_updated": 1784534592849,
       "country": "",
-      "region": "32 km E of Honaunau-Napoopoo, Hawaii",
-      "latitude": 19.5116672515869,
-      "longitude": -155.557662963867,
+      "region": "16 km NW of Midland, Texas",
+      "latitude": 32.113,
+      "longitude": -102.185,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004582",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odtbkn",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1227,27 +1063,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75004582",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odtbkn",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "nc75399291",
-      "title": "M 1.5 - 5 km WNW of Cobb, CA",
+      "event_id": "ci40658218",
+      "title": "M 1.5 - 5 km N of Cabazon, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784512895090,
-      "date_updated": 1784513845077,
+      "date_start": 1784534073980,
+      "date_updated": 1784534688830,
       "country": "",
-      "region": "5 km WNW of Cobb, CA",
-      "latitude": 38.8363342285156,
-      "longitude": -122.782165527344,
+      "region": "5 km N of Cabazon, CA",
+      "latitude": 33.9643333333333,
+      "longitude": -116.789,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399291",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658218",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1268,27 +1104,314 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399291",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658218",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "us7000t1vd",
-      "title": "M 4.7 - 81 km WSW of Puerto Madero, Mexico",
+      "event_id": "ci40658210",
+      "title": "M 1.2 - 6 km N of Cabazon, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784512423162,
-      "date_updated": 1784514101040,
+      "date_start": 1784534056330,
+      "date_updated": 1784534278421,
       "country": "",
-      "region": "81 km WSW of Puerto Madero, Mexico",
-      "latitude": 14.4729,
-      "longitude": -93.1346,
+      "region": "6 km N of Cabazon, CA",
+      "latitude": 33.9678333333333,
+      "longitude": -116.792333333333,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658210",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658210",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci40658202",
+      "title": "M 0.3 - 16 km E of Little Lake, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784533921000,
+      "date_updated": 1784534126824,
+      "country": "",
+      "region": "16 km E of Little Lake, CA",
+      "latitude": 35.9163333333333,
+      "longitude": -117.734833333333,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658202",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658202",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci40658194",
+      "title": "M 0.4 - 12 km N of Borrego Springs, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784533600090,
+      "date_updated": 1784533808641,
+      "country": "",
+      "region": "12 km N of Borrego Springs, CA",
+      "latitude": 33.3611666666667,
+      "longitude": -116.372,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658194",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658194",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "tx2026odsqdo",
+      "title": "M 1.7 - 18 km NNW of Goldsmith, Texas",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784533458739,
+      "date_updated": 1784533622978,
+      "country": "",
+      "region": "18 km NNW of Goldsmith, Texas",
+      "latitude": 32.129,
+      "longitude": -102.697,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odsqdo",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odsqdo",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "nc75399396",
+      "title": "M 0.7 - 2 km NNW of The Geysers, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784533373510,
+      "date_updated": 1784533467143,
+      "country": "",
+      "region": "2 km NNW of The Geysers, CA",
+      "latitude": 38.7910003662109,
+      "longitude": -122.762001037598,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399396",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399396",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "nc75399391",
+      "title": "M 0.9 - 4 km NW of The Geysers, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784532885560,
+      "date_updated": 1784532982042,
+      "country": "",
+      "region": "4 km NW of The Geysers, CA",
+      "latitude": 38.8103332519531,
+      "longitude": -122.785499572754,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399391",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399391",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci40658186",
+      "title": "M 0.9 - 7 km ESE of Valle Vista, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784532637420,
+      "date_updated": 1784532844256,
+      "country": "",
+      "region": "7 km ESE of Valle Vista, CA",
+      "latitude": 33.7183333333333,
+      "longitude": -116.827166666667,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658186",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658186",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "us7000t1wa",
+      "title": "M 4.1 - 62 km SW of Puerto Madero, Mexico",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1784531984000,
+      "date_updated": 1784535037040,
+      "country": "",
+      "region": "62 km SW of Puerto Madero, Mexico",
+      "latitude": 14.3688,
+      "longitude": -92.872,
       "severity": "unknown",
       "status": "reviewed",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vd",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wa",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1309,68 +1432,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vd",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1wa",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "us7000t1vc",
-      "title": "M 4.6 - 3 km NE of Jordán, Colombia",
+      "event_id": "nc75399386",
+      "title": "M 0.7 - 7 km NW of The Geysers, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1784511854908,
-      "date_updated": 1784513365251,
+      "date_start": 1784531729160,
+      "date_updated": 1784531827977,
       "country": "",
-      "region": "3 km NE of Jordán, Colombia",
-      "latitude": 6.7581,
-      "longitude": -73.0723,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vc",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vc",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "tx2026odgine",
-      "title": "M 2.1 - 14 km SE of Lindsay, Texas",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784511202749,
-      "date_updated": 1784512867631,
-      "country": "",
-      "region": "14 km SE of Lindsay, Texas",
-      "latitude": 31.289,
-      "longitude": -103.418,
+      "region": "7 km NW of The Geysers, CA",
+      "latitude": 38.8241653442383,
+      "longitude": -122.811500549316,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odgine",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399386",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -1391,89 +1473,7 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026odgine",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "aka2026ofmjyl",
-      "title": "M 1.2 - 26 km SSE of Chickaloon, Alaska",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784509218865,
-      "date_updated": 1784509290800,
-      "country": "",
-      "region": "26 km SSE of Chickaloon, Alaska",
-      "latitude": 61.573,
-      "longitude": -148.306,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofmjyl",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ofmjyl",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "pr71525063",
-      "title": "M 3.3 - 53 km NNE of Punta Cana, Dominican Republic",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1784508181480,
-      "date_updated": 1784510543230,
-      "country": "",
-      "region": "53 km NNE of Punta Cana, Dominican Republic",
-      "latitude": 19.0366666666667,
-      "longitude": -68.2266666666667,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525063",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525063",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75399386",
           "data_mode": "cached"
         }
       ]
@@ -3078,6 +3078,47 @@
       ]
     },
     {
+      "event_id": "EONET_21373",
+      "title": "Tropical Storm Elida",
+      "event_type": "natural_hazard",
+      "subtype": "storm",
+      "date_start": "2026-07-20T00:00:00Z",
+      "date_updated": "2026-07-20T00:00:00Z",
+      "country": "",
+      "region": "",
+      "latitude": 23.5,
+      "longitude": -126.5,
+      "severity": "unknown",
+      "status": "active",
+      "source_name": "NASA EONET Storms",
+      "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
+      "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21373/geojson",
+      "summary": "NASA EONET Storms",
+      "confidence": "moderate",
+      "tags": [
+        "storm",
+        "storm"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "NASA data policy",
+      "attribution": "NASA EONET",
+      "source_id": "nasa-eonet-storms",
+      "source_category": "storm",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 30,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nasa-eonet-storms",
+          "source_name": "NASA EONET Storms",
+          "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
+          "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21373/geojson",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
       "event_id": "EONET_20710",
       "title": "Nevados del Chillan Volcano, Chile",
       "event_type": "natural_hazard",
@@ -3447,14 +3488,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.1033a671fe8a34cc3d4373e37a1ffebe0a3a377f.002.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.7e2cd8d4c94829e383a8405d9d6f61ab440c00f6.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "S of Oregon Inlet NC to Cape Hatteras NC out to 20 NM; Waters from Oregon Inlet to Cape Hatteras NC from 20 to 60 NM",
+      "region": "Coastal waters from Tarpon Springs to Suwannee River FL out 20 NM; Coastal waters from Englewood to Tarpon Springs FL out 20 NM",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -3462,7 +3503,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "For the following areas...\nS of Oregon Inlet NC to Cape Hatteras NC out to 20 NM...\nWaters from Oregon Inlet to Cape Hatteras NC from 20 to 60 NM...\n\nAt 1200 AM EDT, a strong thunderstorm was located 20 nm southeast of\nRodanthe, moving east at 30 knots.\n\nHAZARD...Wind gusts to nearly 50 knots.\n\nSOURCE...Radar indicated.\n\nIMPACT...Small craft could be damaged in briefly higher winds and\nsuddenly higher waves.\n\nThe strong thunderstorm will remain over mainly open waters.",
+      "summary": "SMWTBW\n\nThe National Weather Service in Ruskin has issued a\n\n* Special Marine Warning for...\nCoastal waters from Englewood to Tarpon Springs FL out 20 NM...\nCoastal waters from Tarpon Springs to Suwannee River FL out 20\nNM...\n\n* Until 630 AM EDT.\n\n* At 530 AM EDT, a strong thunderstorm was located near Anclote Key,\nmoving north at 30 knots.\n\nHAZARD...Wind gusts 34 knots or greater.\n\nSOURCE...Radar.\n\nIMPACT...Expect wind gusts in excess of 34 knots, suddenly higher\nwaves, frequent lightning, and heavy downpours. Make sure\nall on board are wearing life jackets.\n\n* Locations impacted include...\nAnclote Key and Tarpon Springs.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3488,55 +3529,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.657e7213c63c7a48d33a229081ece98facad991b.001.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.e09491244e85a0d1d59b1544d823a24dc3cbd884.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Great Salt Lake Desert and Mountains; Tooele and Rush Valleys; Eastern Box Elder County; Northern Wasatch Front; Salt Lake Valley",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Moderate",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Hazardous temperatures in excess of 100 degrees are\nforecast to develop Monday afternoon across valley locations in\nnorthwest Utah, particularly along the northern Wasatch Front and\nthe Great Salt Lake Desert.\n\n* WHERE...Eastern Box Elder County, Great Salt Lake Desert and\nMountains, Northern Wasatch Front, Salt Lake Valley, and Tooele\nand Rush Valleys.\n\n* WHEN...From noon Monday to midnight MDT Monday Night.\n\n* IMPACTS...Low temperatures into Monday morning will stay elevated\nin the upper 60s to mid 70s for most lower valley locations,\noffering little relief overnight.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.b37343d1035e7259ddfbb104aba8e9bd84d55020.001.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "S of Oregon Inlet NC to Cape Hatteras NC out to 20 NM; Waters from Oregon Inlet to Cape Hatteras NC from 20 to 60 NM",
+      "region": "Coastal waters from Tarpon Springs to Suwannee River FL out 20 NM; Waters from Tarpon Springs to Suwannee River FL out 20 to 60 NM",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -3544,7 +3544,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "SMWMHX\n\nThe National Weather Service in Newport has issued a\n\n* Special Marine Warning for...\nS of Oregon Inlet NC to Cape Hatteras NC out to 20 NM...\nWaters from Oregon Inlet to Cape Hatteras NC from 20 to 60 NM...\n\n* Until 100 AM EDT.\n\n* At 1158 PM EDT, a strong thunderstorm was located 22 nm east of\nRodanthe, moving east at 40 knots.\n\nHAZARD...Wind gusts to nearly 50 knots.\n\nSOURCE...Radar.\n\nIMPACT...Small craft could be damaged in briefly higher winds and\nsuddenly higher waves.\n\n* The strong thunderstorm will remain over mainly open waters.",
+      "summary": "SMWTBW\n\nThe National Weather Service in Ruskin has issued a\n\n* Special Marine Warning for...\nCoastal waters from Tarpon Springs to Suwannee River FL out 20\nNM...\nWaters from Tarpon Springs to Suwannee River FL out 20 to 60 NM...\n\n* Until 630 AM EDT.\n\n* At 527 AM EDT, a strong thunderstorm was located 20 nm northwest of\nAnclote Key, moving north at 20 knots.\n\nHAZARD...Wind gusts 34 knots or greater.\n\nSOURCE...Radar.\n\nIMPACT...Expect wind gusts in excess of 34 knots, suddenly higher\nwaves, frequent lightning, and heavy downpours. Make sure\nall on board are wearing life jackets.\n\n* The strong thunderstorm will remain over mainly open waters.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3570,7 +3570,130 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0-KEEPALIVE-43884",
+      "event_id": "urn:oid:2.49.0.1.840.0.136e06a922022b7807f9908a459cd77739020bbf.001.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Coastal waters from Pt. St. George to Cape Mendocino CA out 10 nm",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...Seas 4 to 7 feet.\n\n* WHERE...Coastal waters from Pt. St. George to Cape Mendocino\nCA out 10 nm.\n\n* WHEN...Until 8 AM PDT this morning.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.136e06a922022b7807f9908a459cd77739020bbf.003.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Waters from Cape Mendocino to Pt. Arena CA from 10 to 60 nm",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...North winds 5 to 15 kt with gusts up to 25 kt and seas\n6 to 9 feet.\n\n* WHERE...Waters from Cape Mendocino to Pt. Arena CA from 10 to\n60 nm.\n\n* WHEN...Until 3 PM PDT this afternoon.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.136e06a922022b7807f9908a459cd77739020bbf.002.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Waters from Pt. St. George to Cape Mendocino CA from 10 to 60 nm",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...North winds 10 to 20 kt with gusts up to 25 kt and seas\n6 to 9 feet.\n\n* WHERE...Waters from Pt. St. George to Cape Mendocino CA from\n10 to 60 nm.\n\n* WHEN...Until 3 PM PDT this afternoon.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0-KEEPALIVE-42292",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
@@ -3611,14 +3734,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.4222b593e75f79f00ed5785c19865b3120c4dad9.002.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.55c24072a7671cb439cf3c38f0d65681e739d7cf.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Union; Claiborne; Lincoln; Union; Bienville; Jackson; Ouachita; Winn; Grant; Caldwell; La Salle",
+      "region": "Larimer County Below 6000 Feet/Northwest Weld County; Boulder And Jefferson Counties Below 6000 Feet/West Broomfield County; North Douglas County Below 6000 Feet/Denver/West Adams and Arapahoe Counties/East Broomfield County; Central and South Weld County",
       "latitude": null,
       "longitude": null,
       "severity": "Moderate",
@@ -3626,7 +3749,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Heat index values up to 108 expected.\n\n* WHERE...Portions of south central Arkansas and north central and\nnorthwest Louisiana.\n\n* WHEN...From 9 AM to 8 PM CDT Monday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+      "summary": "* WHAT...High Temperatures 99 to 103.\n\n* WHERE...Fort Collins, Boulder, Denver metro, and Greeley.\n\n* WHEN...Until 9 PM MDT this evening.\n\n* IMPACTS...Hot temperatures may cause heat illnesses.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3652,55 +3775,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.4222b593e75f79f00ed5785c19865b3120c4dad9.001.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.724ae054f14d47f6a72f8c1dd4bf7962b6e4a2d1.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Sevier; Howard; Little River; Hempstead; Nevada; Miller; Lafayette; Columbia; Caddo; Bossier; Webster; De Soto; Red River; Sabine; Natchitoches; McCurtain; Red River; Bowie; Franklin; Titus; Camp; Morris; Cass; Wood; Upshur; Marion; Smith; Gregg; Harrison; Cherokee; Rusk; Panola; Nacogdoches; Shelby; Angelina; San Augustine; Sabine",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Moderate",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Heat index values up to 108 expected.\n\n* WHERE...Portions of southwest Arkansas, northwest Louisiana,\nsoutheast Oklahoma, and east and northeast Texas.\n\n* WHEN...From 9 AM to 8 PM CDT Monday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.848044b479957727ca13bf562246cb988b2f7af8.001.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Dickey, ND",
+      "region": "North Mobile Bay; South Mobile Bay; Mississippi Sound; Perdido Bay Area; Coastal waters from Pensacola FL to Pascagoula MS out 20 NM; Waters from Pensacola FL to Pascagoula MS from 20 to 60 NM",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -3708,7 +3790,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "At 1055 PM CDT, a severe thunderstorm was located 7 miles southwest\nof Merricourt City, or 17 miles northwest of Ellendale, moving east\nat 35 mph.\n\nHAZARD...70 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect considerable\ntree damage. Wind damage is also likely to mobile homes,\nroofs, and outbuildings.\n\nLocations impacted include...\nEllendale, Fullerton, Forbes, Merricourt City, Monango and\nMerricourt.",
+      "summary": "* WHAT...Southwest winds 30 to 40 kt with gusts up to 55 kt and\nseas 10 to 15 ft. The strongest winds are forecast to be over\nthe open Gulf waters.\n\n* WHERE...Portions of the coastal waters of Alabama and\nnorthwest Florida.\n\n* WHEN...Tropical Storm force winds possible from early Tuesday\nmorning until Wednesday afternoon.\n\n* IMPACTS...Tropical storm force winds and hazardous seas could\ncapsize or damage vessels and reduce visibility.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3734,55 +3816,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.fc980aa423abb47916730b596620c2f69d35a0f1.001.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.724ae054f14d47f6a72f8c1dd4bf7962b6e4a2d1.002.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Mohave, AZ",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...Central Mohave County in northwestern Arizona...\n\n* WHEN...Until 1030 PM MST.\n\n* IMPACTS...Minor flooding in low-lying and poor drainage areas.\n\n* ADDITIONAL DETAILS...\n- At 855 PM MST, Doppler radar indicated heavy rain due to\nthunderstorms. Minor flooding is ongoing or expected to begin\nshortly in the advisory area. Between 0.5 and 1.5 inches of rain\nhave fallen.\n- Additional rainfall amounts up to 0.5 inches are expected over\nthe area. This additional rain will result in minor flooding.\n- Some locations that will experience flooding include...\nDiamond Creek Campground, Windy Point Campground, Packsaddle\nCampground, Dolan Springs and Peach Springs.\n- http://www.weather.gov/safety/flood",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.75dd770b05026095e55805f9c1c47ac2d6b41965.001.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Dickey, ND",
+      "region": "Pensacola Bay Area including Santa Rosa Sound; Western Choctawhatchee Bay; Eastern Choctawhatchee Bay; Coastal waters from Okaloosa-Walton County Line to Pensacola FL out 20 NM; Waters from Okaloosa-Walton County Line to Pensacola FL from 20 to 60 NM",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -3790,7 +3831,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "At 1055 PM CDT, a severe thunderstorm was located over Ludden, or 21\nmiles east of Ellendale, moving southeast at 30 mph.\n\nHAZARD...60 mph wind gusts and quarter size hail.\n\nSOURCE...Radar indicated.\n\nIMPACT...Hail damage to vehicles is expected. Expect wind damage to\nroofs, siding, and trees.\n\nLocations impacted include...\nOakes, Ludden and Guelph.",
+      "summary": "* WHAT...Southwest winds 25 to 35 kt with gusts up to 55 kt and\nseas 10 to 15 ft. The strongest winds are forecast to be over\nthe open Gulf waters.\n\n* WHERE...Pensacola Bay System, Western Choctawhatchee Bay,\nEastern Choctawhatchee Bay, Coastal waters from Okaloosa\nWalton County Line FL to Pensacola FL out 20 NM and Waters\nfrom Okaloosa Walton County Line FL to Pensacola FL from 20 to\n60 NM.\n\n* WHEN...Tropical Storm force winds possible from early this\nafternoon until early Wednesday morning.\n\n* IMPACTS...Tropical storm force winds and hazardous seas could\ncapsize or damage vessels and reduce visibility.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3816,14 +3857,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.2147b6c52d226c4a966a7bcf98e05dec1837c058.002.2",
+      "event_id": "urn:oid:2.49.0.1.840.0.1ce4f1a86ee83a1276123a400c8b2134594bd9e4.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "North and Central Sebastian; Southern Crawford; Central and Southern Franklin; Washington; Nowata; Craig; Ottawa; Tulsa; Rogers; Mayes; Delaware; Okmulgee; Wagoner; Muskogee; McIntosh; Haskell; Northern Le Flore; Northeast Osage; Central and Southern Sequoyah; Southeast Osage",
+      "region": "Stewart; Montgomery; Robertson; Sumner; Macon; Clay; Pickett; Houston; Humphreys; Dickson; Cheatham; Davidson; Wilson; Trousdale; Smith; Jackson; Putnam; Overton; Fentress; Perry; Hickman; Lewis; Williamson; Maury; Marshall; Rutherford; Cannon; De Kalb; White; Cumberland; Bedford; Coffee; Warren; Grundy; Van Buren; Wayne; Lawrence; Giles",
       "latitude": null,
       "longitude": null,
       "severity": "Moderate",
@@ -3831,7 +3872,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...For the Heat Advisory, heat index values up to 109 expected.\nFor the Extreme Heat Watch, dangerously hot conditions with heat\nindex values up to 113 possible.\n\n* WHERE...Portions of northwest and west central Arkansas and east\ncentral, northeast, and southeast Oklahoma.\n\n* WHEN...For the Heat Advisory, from 1 PM to 8 PM CDT Monday. For the\nExtreme Heat Watch, from Tuesday afternoon through Tuesday evening.\n\n* IMPACTS...Heat related illnesses increase significantly during\nextreme heat and high humidity events. Heat related illnesses are\npossible especially impacting those not acclimated to the\nconditions or those performing strenuous activities.",
+      "summary": "* WHAT...Dangerous heat and humidity. Heat index values well over\n100 degrees.\n\n* WHERE...Across Middle Tennessee.\n\n* WHEN...From 10 AM this morning to 8 PM CDT Tuesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3857,14 +3898,301 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.2147b6c52d226c4a966a7bcf98e05dec1837c058.002.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.f418a7a8627b864335b9dba6a112a2a16a6119a8.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "North and Central Sebastian; Southern Crawford; Central and Southern Franklin; Washington; Nowata; Craig; Ottawa; Tulsa; Rogers; Mayes; Delaware; Okmulgee; Wagoner; Muskogee; McIntosh; Haskell; Northern Le Flore; Northeast Osage; Central and Southern Sequoyah; Southeast Osage",
+      "region": "Lake Of The Woods; North Beltrami; South Beltrami; Hubbard",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Moderate",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "Due to continued dry conditions in forested areas around Park\nRapids, Bemidji and Baudette conditions will remain favorable for\nnear critical fire weather conditions once again this afternoon\nand early evening. This is despite higher RH values today. The\nsituation is evaluated daily.\n\nDry conditions could lead to the rapid spread of fires if one\nwould start.\n\n\nFor more information on burning restrictions for Minnesota, see\nwww.dnr.state.mn.us/forestry/fire/firerating_restrictions.html",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.05775107a488c0c5c46950b35f5c84fa390c9a71.001.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Choctaw; Washington; Clarke; Wilcox; Monroe; Conecuh; Butler; Crenshaw; Escambia; Covington; Mobile Inland; Baldwin Inland; Mobile Central; Baldwin Central; Mobile Coastal; Baldwin Coastal; Escambia Inland; Escambia Coastal; Santa Rosa Inland; Santa Rosa Coastal; Okaloosa Inland; Okaloosa Coastal; Wayne; Perry; Greene; Stone; George",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Moderate",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "HLSMOB\n\nThis product covers portions of southwest Alabama...northwest Florida...south\ncentral Alabama...and inland southeast Mississippi.\n\n**TROPICAL DEPRESSION TWO EXPECTED TO BECOME A TROPICAL STORM LATER TODAY**\n**TROPICAL STORM WATCH EXTENDED TO MISSISSIPPI/ALABAMA BORDER**\n\nNEW INFORMATION\n---------------\n\n* CHANGES TO WATCHES AND WARNINGS:\n- A Tropical Storm Watch has been issued for Baldwin Central,\nBaldwin Coastal, Mobile Central, and Mobile Coastal\n\n* CURRENT WATCHES AND WARNINGS:\n- A Tropical Storm Watch is in effect for Baldwin Central,\nBaldwin Coastal, Escambia Coastal, Mobile Central, Mobile\nCoastal, Okaloosa Coastal, and Santa Rosa Coastal\n\n* STORM INFORMATION:\n- About 220 miles southeast of Mobile AL or about 180 miles\nsoutheast of Pensacola FL\n- 28.5N 85.4W\n- Storm Intensity 35 mph\n- Movement Northwest or 320 degrees at 3 mph\n\nSITUATION OVERVIEW\n------------------\n\nTropical Depression Two, currently south of the Florida Big Bend,\nis forecast to strengthen into a tropical storm later today. It is\nforecast to move into the Alabama and northwest Florida Gulf waters\nTuesday into Wednesday morning. This system is likely to remain\noffshore through mid week, eventually moving west of the area.\nCurrently, impacts are likely to remain focused close to the immediate\ncoast and offshore.\n\nWhile there are still uncertainties in the ultimate track and\nintensity of the system, dangerous surf and beach conditions are\nexpected. A high risk of deadly rip currents is forecast beginning\nMonday night, persisting through much of the week. Surf heights across\nthe Gulf facing beaches could exceed 10 ft Tuesday night into\nWednesday. In addition, storm surge of 1 to 3 feet is possible during\nperiods of high tide Wednesday and Thursday mornings across coastal\nAlabama with 1 to 2 feet of surge possible further easter across the\nwestern Florida Panhandle.\n\nTropical storm force winds will be possible, primarily along the\nimmediate coast, Tuesday into Wednesday.\n\nWhile most of the heavy rain is currently forecast to remain offshore,\nlocally heavy rainfall is possible across the coastal counties in any\nouter bands that move ashore.\n\nPOTENTIAL IMPACTS\n-----------------\n\n* COASTAL HAZARDS:\nDangerous surf and beach conditions are expected. A high risk of deadly rip\ncurrents is forecast beginning Monday night, persisting through much of the\nweek. Surf heights across the Gulf facing beaches could exceed 10 ft Tuesday\nnight into Wednesday.\n\n* SURGE:\nPrepare for locally hazardous surge having possible limited impacts across\ncoastal Alabama and the western Florida Panhandle. Potential impacts in this\narea include:\n- Localized inundation with storm surge flooding mainly along\nimmediate shorelines and in low-lying spots, or in areas\nfarther inland near where higher surge waters move ashore.\n- Sections of near-shore roads and parking lots become overspread\nwith surge water. Driving conditions dangerous in places where\nsurge water covers the road.\n- Moderate beach erosion. Heavy surf also breaching dunes, mainly\nin usually vulnerable locations. Strong rip currents.\n- Minor to locally moderate damage to marinas, docks, boardwalks,\nand piers. A few small craft broken away from moorings.\n\n* WIND:\nPrepare for hazardous wind having possible limited impacts across immediate\ncoastal areas of Alabama and the western Florida Panhandle. Potential impacts\nin this area include:\n- Damage to porches, awnings, carports, sheds, and unanchored\nmobile homes. Unsecured lightweight objects blown about.\n- Many large tree limbs broken off. A few trees snapped or\nuprooted, but with greater numbers in places where trees are\nshallow rooted. Some fences and roadway signs blown over.\n- A few roads impassable from debris, particularly within urban\nor heavily wooded places. Hazardous driving conditions on\nbridges and other elevated roadways.\n- Scattered power and communications outages.\n\nElsewhere across portions of southwest Alabama...northwest\nFlorida...south central Alabama...and inland southeast Mississippi.,\nlittle to no impact is anticipated.\n\n* FLOODING RAIN:\nPrepare for locally hazardous rainfall flooding having possible limited\nimpacts across coastal Alabama and the northwest Florida Panhandle.\nPotential impacts include:\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter currents.\nSmall streams, creeks, canals, and ditches may become swollen\nand overflow in spots.\n- Flood waters can enter a few structures, especially in usually\nvulnerable spots. A few places where rapid ponding of water\noccurs at underpasses, low-lying spots, and poor drainage\nareas. Several storm drains and retention ponds become\nnear-full and begin to overflow. Some brief road and bridge\nclosures.\n\nElsewhere across portions of southwest Alabama...northwest\nFlorida...south central Alabama...and inland southeast Mississippi.,\nlittle to no impact is anticipated.\n\n* TORNADOES:\nLittle to no impacts are anticipated at this time across portions of\nsouthwest Alabama...northwest Florida...south central Alabama...and inland\nsoutheast Mississippi.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS\n----------------------------------\n\n* EVACUATIONS:\nFollow the advice of local officials.\n\n* OTHER PREPAREDNESS INFORMATION:\nNow is the time to check your emergency plan and emergency supplies\nkit and take necessary actions to protect your family and secure your\nhome or business.\n\nWhen making safety and preparedness decisions, do not focus on the\nexact forecast track since hazards such as flooding rain, damaging\nwind gusts, storm surge, and tornadoes extend well away from the\ncenter of the storm.\n\nIf you are a visitor, know the name of the county or parish in which\nyou are located and where it is relative to current watches and\nwarnings. If staying at a hotel, ask the management staff about their\nonsite disaster plan. Listen for evacuation orders, especially\npertaining to area visitors.\n\nClosely monitor weather.gov, NOAA Weather Radio and local news\noutlets for official storm information. Listen for possible changes\nto the forecast.\n\n\n* ADDITIONAL SOURCES OF INFORMATION:\n- For the latest detailed evacuation and shelter information...please\nrefer to your local emergency management agency at the phone number\nor website listed below.\n- Coastal Alabama:\n- Baldwin County: 251-972-6807 or\nwww.baldwincountyal.gov/departments/EMA\n- Mobile County: 251-460-8000 or mobilecountyema.gov\n- Northwest Florida:\n- Escambia County: 850-471-6400 or myescambia.com/beready\n- Santa Rosa County: 850-983-5360 www.santarosa.fl.gov/emergency\n- Okaloosa County: 850-651-7150 or myokaloosa.com/emergency-management\n- For information on appropriate preparations see ready.gov\n- For additional disaster preparedness information see redcross.org\n\nNEXT UPDATE\n-----------\n\nThe next local statement will be issued by the National Weather\nService in Mobile AL around 10 AM CDT, or sooner if conditions\nwarrant.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.825e10ca931dbc689c736ccbce0e939cbb445861.001.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Green Bay south of line from  Cedar River to Rock Island Passage and north of a line from Oconto WI to Little Sturgeon Bay WI; Green Bay south of line from  Oconto WI to Little Sturgeon Bay WI",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 to 2 NM. For the Small Craft Advisory, southwest\nwinds 10 to 20 kt with gusts up to 30 kt and waves 2 to 4 ft\nexpected.\n\n* WHERE...Green Bay south of line from Cedar River to Rock\nIsland Passage and north of a line from Oconto WI to Little\nSturgeon Bay WI and Green Bay south of line from Oconto WI to\nLittle Sturgeon Bay WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT this\nmorning. For the Small Craft Advisory, until 1 AM CDT Tuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.825e10ca931dbc689c736ccbce0e939cbb445861.002.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Rock Island Passage to Sturgeon Bay WI; Sturgeon Bay to Two Rivers WI; Two Rivers to Sheboygan WI",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 to 2 NM. For the Small Craft Advisory,\nsouthwest winds 10 to 20 kt with gusts up to 30 kt and waves 4\nto 7 ft expected.\n\n* WHERE...Rock Island Passage to Sturgeon Bay WI, Sturgeon Bay\nto Two Rivers WI and Two Rivers to Sheboygan WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT this\nmorning. For the Small Craft Advisory, from 10 AM this morning\nto 7 AM CDT Tuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.825e10ca931dbc689c736ccbce0e939cbb445861.001.2",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Green Bay south of line from  Cedar River to Rock Island Passage and north of a line from Oconto WI to Little Sturgeon Bay WI; Green Bay south of line from  Oconto WI to Little Sturgeon Bay WI",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 to 2 NM. For the Small Craft Advisory, southwest\nwinds 10 to 20 kt with gusts up to 30 kt and waves 2 to 4 ft\nexpected.\n\n* WHERE...Green Bay south of line from Cedar River to Rock\nIsland Passage and north of a line from Oconto WI to Little\nSturgeon Bay WI and Green Bay south of line from Oconto WI to\nLittle Sturgeon Bay WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT this\nmorning. For the Small Craft Advisory, until 1 AM CDT Tuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.825e10ca931dbc689c736ccbce0e939cbb445861.002.2",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Rock Island Passage to Sturgeon Bay WI; Sturgeon Bay to Two Rivers WI; Two Rivers to Sheboygan WI",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Minor",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 to 2 NM. For the Small Craft Advisory,\nsouthwest winds 10 to 20 kt with gusts up to 30 kt and waves 4\nto 7 ft expected.\n\n* WHERE...Rock Island Passage to Sturgeon Bay WI, Sturgeon Bay\nto Two Rivers WI and Two Rivers to Sheboygan WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT this\nmorning. For the Small Craft Advisory, from 10 AM this morning\nto 7 AM CDT Tuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.66ba0ba38d86ad64827f4b30ba434af0a1e25214.001.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Door; Kewaunee; Manitowoc",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Moderate",
+      "status": "Actual",
+      "source_name": "US National Weather Service Active Alerts",
+      "source_url": "https://api.weather.gov/alerts/active",
+      "source_record_url": "https://api.weather.gov/alerts/active",
+      "summary": "* WHAT...High waves and dangerous currents expected.\n\n* WHERE...Beaches along Lake Michigan in Door, Kewaunee and\nManitowoc Counties.\n\n* WHEN...From 10 AM CDT this morning through Tuesday morning.\n\n* IMPACTS...Dangerous swimming conditions are expected. Strong\ncurrents can pull swimmers into deeper water and high waves\ncan sweep people off piers.\n\n* ADDITIONAL DETAILS...Several beaches that will be most\nsusceptible to the dangerous swimming conditions include...\nRock Island State Beach, Baileys Harbor beaches and Whitefish\nDunes Beach in Door County. Cresent Beach and City of Kewaunee\nBeach in Kewaunee County. Point Beach, Neshotah Beach and Red\nArrow Beach in Manitowoc County.",
+      "confidence": "high",
+      "tags": [
+        "weather",
+        "alert"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "U.S. government data",
+      "attribution": "NOAA / National Weather Service",
+      "source_id": "nws-active-alerts",
+      "source_category": "weather",
+      "source_adapter": "nws-alerts",
+      "source_refresh_minutes": 10,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nws-active-alerts",
+          "source_name": "US National Weather Service Active Alerts",
+          "source_url": "https://api.weather.gov/alerts/active",
+          "source_record_url": "https://api.weather.gov/alerts/active",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "urn:oid:2.49.0.1.840.0.edc8229fc59951b6c163606ca2985c6776a8cfc1.002.1",
+      "title": "US National Weather Service Active Alerts",
+      "event_type": "natural_hazard",
+      "subtype": "alert",
+      "date_start": null,
+      "date_updated": null,
+      "country": "",
+      "region": "Mobile Coastal",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -3872,7 +4200,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...For the Heat Advisory, heat index values up to 109 expected.\nFor the Extreme Heat Watch, dangerously hot conditions with heat\nindex values up to 113 possible.\n\n* WHERE...Portions of northwest and west central Arkansas and east\ncentral, northeast, and southeast Oklahoma.\n\n* WHEN...For the Heat Advisory, from 1 PM to 8 PM CDT Monday. For the\nExtreme Heat Watch, from Tuesday afternoon through Tuesday evening.\n\n* IMPACTS...Heat related illnesses increase significantly during\nextreme heat and high humidity events. Heat related illnesses are\npossible especially impacting those not acclimated to the\nconditions or those performing strenuous activities.",
+      "summary": "A Tropical Storm Watch means tropical storm-force winds are possible\nsomewhere within this area within the next 48 hours\n\n* LOCATIONS AFFECTED\n- Grand Bay\n- Dauphin Island\n- Bayou La Batre\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 25-35 mph with gusts to 45 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Efforts to protect property should now be\nunderway. Prepare for limited wind damage.\n- ACT: Act now to complete preparations before the wind\nbecomes hazardous.\n\n- POTENTIAL IMPACTS: Limited\n- Damage to porches, awnings, carports, sheds, and unanchored\nmobile homes. Unsecured lightweight objects blown about.\n- Many large tree limbs broken off. A few trees snapped or\nuprooted, but with greater numbers in places where trees\nare shallow rooted. Some fences and roadway signs blown\nover.\n- A few roads impassable from debris, particularly within\nurban or heavily wooded places. Hazardous driving\nconditions on bridges and other elevated roadways.\n- Scattered power and communications outages.\n\n* STORM SURGE\n- LATEST LOCAL FORECAST: Localized storm surge possible\n- Peak Storm Surge Inundation: The potential for 1-3 feet\nabove ground somewhere within surge prone areas\n- Window of concern: Tuesday evening until Thursday afternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for storm\nsurge flooding greater than 1 foot above ground\n- The storm surge threat has increased from the previous\nassessment.\n- PLAN: Plan for storm surge flooding greater than 1 foot\nabove ground.\n- PREPARE: Efforts should now be underway to prepare for\nstorm surge flooding, especially in low-lying vulnerable\nareas.\n- ACT: Take actions to protect life and property. Prepare to\nleave if evacuation orders are given for your area.\n\n- POTENTIAL IMPACTS: Limited\n- Localized inundation with storm surge flooding mainly along\nimmediate shorelines and in low-lying spots, or in areas\nfarther inland near where higher surge waters move ashore.\n- Sections of near-shore roads and parking lots become\noverspread with surge water. Driving conditions dangerous\nin places where surge water covers the road.\n- Moderate beach erosion. Heavy surf also breaching dunes,\nmainly in usually vulnerable locations. Strong rip currents.\n- Minor to locally moderate damage to marinas, docks,\nboardwalks, and piers. A few small craft broken away from\nmoorings.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST:\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, and ditches may\nbecome swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- For evacuation and shelter information, please refer to:\n- Mobile County EMA: 251-460-8000 or mobilecountyema.gov\n- For storm surge threat graphics and other storm impacts:\n- NWS Mobile: www.weather.gov/mob",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3898,22 +4226,336 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.2147b6c52d226c4a966a7bcf98e05dec1837c058.001.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.edc8229fc59951b6c163606ca2985c6776a8cfc1.006.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Benton; Carroll; Washington; Madison; Pushmataha; Choctaw; Adair",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Moderate",
+      "region": "Escambia Coastal",
+      "latitude": [
+        [
+          [
+            -87.161,
+            30.515
+          ],
+          [
+            -87.159,
+            30.497
+          ],
+          [
+            -87.15,
+            30.49
+          ],
+          [
+            -87.162,
+            30.479
+          ],
+          [
+            -87.16,
+            30.468
+          ],
+          [
+            -87.163,
+            30.427
+          ],
+          [
+            -87.192,
+            30.414
+          ],
+          [
+            -87.208,
+            30.401
+          ],
+          [
+            -87.239,
+            30.396
+          ],
+          [
+            -87.267,
+            30.374
+          ],
+          [
+            -87.267,
+            30.344
+          ],
+          [
+            -87.306,
+            30.346
+          ],
+          [
+            -87.315,
+            30.336
+          ],
+          [
+            -87.314,
+            30.327
+          ],
+          [
+            -87.321,
+            30.317
+          ],
+          [
+            -87.553,
+            30.271
+          ],
+          [
+            -87.553,
+            30.275
+          ],
+          [
+            -87.554,
+            30.283
+          ],
+          [
+            -87.551,
+            30.287
+          ],
+          [
+            -87.515,
+            30.301
+          ],
+          [
+            -87.499,
+            30.318
+          ],
+          [
+            -87.49,
+            30.32
+          ],
+          [
+            -87.442,
+            30.324
+          ],
+          [
+            -87.434,
+            30.339
+          ],
+          [
+            -87.415,
+            30.347
+          ],
+          [
+            -87.422,
+            30.359
+          ],
+          [
+            -87.428,
+            30.353
+          ],
+          [
+            -87.441,
+            30.366
+          ],
+          [
+            -87.425,
+            30.375
+          ],
+          [
+            -87.431,
+            30.39
+          ],
+          [
+            -87.426,
+            30.402
+          ],
+          [
+            -87.398,
+            30.401
+          ],
+          [
+            -87.391,
+            30.411
+          ],
+          [
+            -87.358,
+            30.417
+          ],
+          [
+            -87.34,
+            30.431
+          ],
+          [
+            -87.355,
+            30.445
+          ],
+          [
+            -87.365,
+            30.458
+          ],
+          [
+            -87.389,
+            30.446
+          ],
+          [
+            -87.417,
+            30.453
+          ],
+          [
+            -87.438,
+            30.481
+          ],
+          [
+            -87.436,
+            30.489
+          ],
+          [
+            -87.429,
+            30.488
+          ],
+          [
+            -87.433,
+            30.498
+          ],
+          [
+            -87.438,
+            30.494
+          ],
+          [
+            -87.438,
+            30.504
+          ],
+          [
+            -87.442,
+            30.503
+          ],
+          [
+            -87.448,
+            30.513
+          ],
+          [
+            -87.446,
+            30.522
+          ],
+          [
+            -87.374,
+            30.562
+          ],
+          [
+            -87.293,
+            30.577
+          ],
+          [
+            -87.265,
+            30.612
+          ],
+          [
+            -87.257,
+            30.615
+          ],
+          [
+            -87.259,
+            30.612
+          ],
+          [
+            -87.242,
+            30.606
+          ],
+          [
+            -87.246,
+            30.599
+          ],
+          [
+            -87.233,
+            30.595
+          ],
+          [
+            -87.225,
+            30.582
+          ],
+          [
+            -87.219,
+            30.569
+          ],
+          [
+            -87.208,
+            30.555
+          ],
+          [
+            -87.201,
+            30.554
+          ],
+          [
+            -87.195,
+            30.55
+          ],
+          [
+            -87.18,
+            30.544
+          ],
+          [
+            -87.187,
+            30.541
+          ],
+          [
+            -87.188,
+            30.532
+          ],
+          [
+            -87.161,
+            30.515
+          ]
+        ]
+      ],
+      "longitude": [
+        [
+          [
+            -86.92,
+            30.371
+          ],
+          [
+            -87.097,
+            30.334
+          ],
+          [
+            -87.216,
+            30.32
+          ],
+          [
+            -87.284,
+            30.31
+          ],
+          [
+            -87.302,
+            30.329
+          ],
+          [
+            -87.289,
+            30.337
+          ],
+          [
+            -87.185,
+            30.344
+          ],
+          [
+            -87.182,
+            30.343
+          ],
+          [
+            -87.078,
+            30.351
+          ],
+          [
+            -87.052,
+            30.359
+          ],
+          [
+            -86.928,
+            30.381
+          ],
+          [
+            -86.92,
+            30.371
+          ]
+        ]
+      ],
+      "severity": "Severe",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Heat index values up to 106 expected.\n\n* WHERE...In Arkansas, Benton, Carroll, Madison, and Washington AR\nCounties. In Oklahoma, Adair, Choctaw, and Pushmataha Counties.\n\n* WHEN...From 1 PM to 8 PM CDT Monday.\n\n* IMPACTS...Heat related illnesses are possible especially impacting\nthose not acclimated to the conditions or those performing\nstrenuous activities.",
+      "summary": "* LOCATIONS AFFECTED\n- Pensacola\n- Pensacola Beach\n- Perdido Bay\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 20-30 mph with gusts to 35 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Efforts to protect property should now be\nunderway. Prepare for limited wind damage.\n- ACT: Act now to complete preparations before the wind\nbecomes hazardous.\n\n- POTENTIAL IMPACTS: Limited\n- Damage to porches, awnings, carports, sheds, and unanchored\nmobile homes. Unsecured lightweight objects blown about.\n- Many large tree limbs broken off. A few trees snapped or\nuprooted, but with greater numbers in places where trees\nare shallow rooted. Some fences and roadway signs blown\nover.\n- A few roads impassable from debris, particularly within\nurban or heavily wooded places. Hazardous driving\nconditions on bridges and other elevated roadways.\n- Scattered power and communications outages.\n\n* STORM SURGE\n- LATEST LOCAL FORECAST: Localized storm surge possible\n- Peak Storm Surge Inundation: The potential for up to 2 feet\nabove ground somewhere within surge prone areas\n- Window of concern: Tuesday evening until Thursday afternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for storm\nsurge flooding greater than 1 foot above ground\n- The storm surge threat has increased from the previous\nassessment.\n- PLAN: Plan for storm surge flooding greater than 1 foot\nabove ground.\n- PREPARE: Efforts should now be underway to prepare for\nstorm surge flooding, especially in low-lying vulnerable\nareas.\n- ACT: Take actions to protect life and property. Prepare to\nleave if evacuation orders are given for your area.\n\n- POTENTIAL IMPACTS: Limited\n- Localized inundation with storm surge flooding mainly along\nimmediate shorelines and in low-lying spots, or in areas\nfarther inland near where higher surge waters move ashore.\n- Sections of near-shore roads and parking lots become\noverspread with surge water. Driving conditions dangerous\nin places where surge water covers the road.\n- Moderate beach erosion. Heavy surf also breaching dunes,\nmainly in usually vulnerable locations. Strong rip currents.\n- Minor to locally moderate damage to marinas, docks,\nboardwalks, and piers. A few small craft broken away from\nmoorings.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST:\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, and ditches may\nbecome swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- For evacuation and shelter information, please refer to:\n- Escambia County EMA: 850-471-6400 or myescambia.com/beready\n- For storm surge threat graphics and other storm impacts:\n- NWS Mobile: www.weather.gov/mob",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3939,309 +4581,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.2147b6c52d226c4a966a7bcf98e05dec1837c058.003.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.edc8229fc59951b6c163606ca2985c6776a8cfc1.005.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Northern Crawford; Northern Franklin; Southern Sebastian; Pawnee; Creek; Okfuskee; Cherokee; Pittsburg; Latimer; Western Osage; Northern Sequoyah; Central Le Flore; Southern Le Flore",
+      "region": "Santa Rosa Coastal",
       "latitude": null,
       "longitude": null,
-      "severity": "Moderate",
+      "severity": "Severe",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Heat index values up to 108 expected.\n\n* WHERE...Portions of northwest and west central Arkansas and east\ncentral, northeast, and southeast Oklahoma.\n\n* WHEN...From 1 PM to 8 PM CDT Monday.\n\n* IMPACTS...Heat related illnesses are possible especially impacting\nthose not acclimated to the conditions or those performing\nstrenuous activities.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.f95dbb6a50e28a386111161aa25c09a647940460.001.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Anson, NC; Hoke, NC; Montgomery, NC; Moore, NC; Richmond, NC; Scotland, NC; Stanly, NC",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Flooding caused by excessive rainfall is expected.\n\n* WHERE...A portion of central North Carolina, including the\nfollowing counties, Anson, Hoke, Montgomery, Moore, Richmond,\nScotland and Stanly.\n\n* WHEN...Until 400 AM EDT.\n\n* IMPACTS...Minor flooding in low-lying and poor drainage areas.\n\n* ADDITIONAL DETAILS...\n- At 1147 PM EDT, Doppler radar indicated a large area of\nshowers and thunderstorms causing heavy rainfall. Many\nlocations across the Sandhills have seen intermittent periods\nof heavy rain since late Sunday evening, and this is likely\nto continue through the early morning hours. Between 2 and 3\ninches of rain have fallen since 8 PM Sunday. Minor flooding\nis expected to begin shortly in the advisory area.\n- Additional rainfall amounts of 1 to 2 inches are expected\nover the area through 4 AM Monday. This additional rain will\nresult in minor flooding.\n- Some locations that will experience flooding include...\nLaurinburg, Southern Pines, Rockingham, Wadesboro, Raeford,\nCarthage, Pinehurst, Hamlet, Aberdeen, Biscoe, Ansonville,\nHoffman, Antioch, Polkton, Locust, Whispering Pines, Norwood,\nOakboro, Stanfield and Pinebluff.\n- http://www.weather.gov/safety/flood",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.e108f5146da387fd1b35fd18718aa4f2e7de8b5b.001.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Jefferson; Perry; Franklin; Hamilton; Jackson; Williamson; Saline; Gallatin; Union; Johnson; Pope; Hardin; Alexander; Pulaski; Massac; Fulton; Hickman; Carlisle; Ballard; McCracken; Graves; Livingston; Marshall; Calloway; Crittenden; Lyon; Trigg; Caldwell; Union; Webster; Hopkins; Christian; Muhlenberg; Todd; Perry; Bollinger; Cape Girardeau; Wayne; Carter; Ripley; Butler; Stoddard; Scott; Mississippi; New Madrid",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Moderate",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Heat index values between 100 to 105 expected.\n\n* WHERE...Portions of southern Illinois, western Kentucky, and\nsoutheast Missouri.\n\n* WHEN...Until 7 PM CDT Tuesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.\n\n* ADDITIONAL DETAILS...Higher humidity levels combined with hot\ntemperatures on Tuesday may cause heat index values to near 110\ndegrees.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.eda46bc52118012564e559f603fd46aed9579b9d.002.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "North Point Light to Wind Point WI",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 NM. For the Small Craft Advisory, southwest\nwinds 15 to 20 kt with gusts up to 25 kt expected.\n\n* WHERE...North Point Light to Wind Point WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT Monday.\nFor the Small Craft Advisory, from 1 PM Monday to 1 AM CDT\nTuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.eda46bc52118012564e559f603fd46aed9579b9d.001.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Sheboygan to Port Washington WI; Port Washington to North Point Light WI",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 NM. For the Small Craft Advisory, southwest\nwinds 15 to 20 kt with gusts up to 30 kt expected.\n\n* WHERE...Sheboygan to Port Washington WI and Port Washington to\nNorth Point Light WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT Monday.\nFor the Small Craft Advisory, from 1 PM Monday to 7 AM CDT\nTuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.eda46bc52118012564e559f603fd46aed9579b9d.002.2",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "North Point Light to Wind Point WI",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 NM. For the Small Craft Advisory, southwest\nwinds 15 to 20 kt with gusts up to 25 kt expected.\n\n* WHERE...North Point Light to Wind Point WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT Monday.\nFor the Small Craft Advisory, from 1 PM Monday to 1 AM CDT\nTuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.eda46bc52118012564e559f603fd46aed9579b9d.001.2",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Sheboygan to Port Washington WI; Port Washington to North Point Light WI",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...For the Dense Smoke Advisory, dense smoke will reduce\nvisibility to 1 NM. For the Small Craft Advisory, southwest\nwinds 15 to 20 kt with gusts up to 30 kt expected.\n\n* WHERE...Sheboygan to Port Washington WI and Port Washington to\nNorth Point Light WI.\n\n* WHEN...For the Dense Smoke Advisory, until 7 AM CDT Monday.\nFor the Small Craft Advisory, from 1 PM Monday to 7 AM CDT\nTuesday.\n\n* IMPACTS...Conditions will be hazardous to small craft. Low\nvisibility will make navigation difficult.",
-      "confidence": "high",
-      "tags": [
-        "weather",
-        "alert"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "U.S. government data",
-      "attribution": "NOAA / National Weather Service",
-      "source_id": "nws-active-alerts",
-      "source_category": "weather",
-      "source_adapter": "nws-alerts",
-      "source_refresh_minutes": 10,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nws-active-alerts",
-          "source_name": "US National Weather Service Active Alerts",
-          "source_url": "https://api.weather.gov/alerts/active",
-          "source_record_url": "https://api.weather.gov/alerts/active",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0.eda46bc52118012564e559f603fd46aed9579b9d.003.1",
-      "title": "US National Weather Service Active Alerts",
-      "event_type": "natural_hazard",
-      "subtype": "alert",
-      "date_start": null,
-      "date_updated": null,
-      "country": "",
-      "region": "Lake Michigan Michigan City IN to St. Joseph MI 5 NM offshore to mid-line of lake.; Lake Michigan from Seul Choix Point to Rock Island Passage 5NM offshore to Mid Lake; Lake Michigan South of a line from Seul Choix Point to the Mackinac Bridge and North of a line from Charlevoix MI to South Fox Island 5NM offshore; Lake Michigan from Charlevoix to Point Betsie MI 5NM Offshore to mid lake; Lake Michigan from Point Betsie to Manistee MI 5NM offshore to Mid Lake; Lake Michigan from Rock Island Passage to Sturgeon Bay WI 5NM offshore to mid lake; Lake Michigan from Sturgeon Bay to Two Rivers WI 5NM offshore to Mid Lake; Lake Michigan from Two Rivers to Sheboygan WI 5NM offshore to Mid Lake; Wind Point WI to Winthrop Harbor IL; Lake Michigan from Sheboygan to Port Washington WI 5NM offshore to Mid Lake; Lake Michigan from Port Washington to North Point Light WI 5NM offshore to Mid Lake; Lake Michigan from North Point Light to Wind Point WI 5NM offshore to Mid Lake; Lake Michigan from Wind Point WI to Winthrop Harbor IL 5NM offshore to Mid Lake; Lake Michigan from Winthrop Harbor to Wilmette Harbor IL 5NM offshore to Mid Lake; Lake Michigan from Wilmette Harbor to Michigan City in 5NM offshore to Mid Lake; Lake Michigan from Pentwater to Manistee MI 5NM offshore to Mid Lake; Lake Michigan from Whitehall to Pentwater MI 5NM offshore to Mid Lake; Lake Michigan from Grand Haven to Whitehall MI 5NM offshore to Mid Lake; Lake Michigan from Holland to Grand Haven MI 5NM offshore to Mid Lake; Lake Michigan from South Haven to Holland MI 5NM offshore to Mid lake; Lake Michigan from St Joseph to South Haven MI 5NM offshore to Mid Lake",
-      "latitude": null,
-      "longitude": null,
-      "severity": "Minor",
-      "status": "Actual",
-      "source_name": "US National Weather Service Active Alerts",
-      "source_url": "https://api.weather.gov/alerts/active",
-      "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* WHAT...Dense smoke will reduce visibility to as low as 1 NM.\n\n* WHERE...All open waters of Lake Michigan.\n\n* WHEN...Until 7 AM CDT Monday.\n\n* IMPACTS...Low visibility will make navigation difficult.",
+      "summary": "* LOCATIONS AFFECTED\n- Bagdad\n- Gulf Breeze\n- Navarre\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 20-30 mph with gusts to 35 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Efforts to protect property should now be\nunderway. Prepare for limited wind damage.\n- ACT: Act now to complete preparations before the wind\nbecomes hazardous.\n\n- POTENTIAL IMPACTS: Limited\n- Damage to porches, awnings, carports, sheds, and unanchored\nmobile homes. Unsecured lightweight objects blown about.\n- Many large tree limbs broken off. A few trees snapped or\nuprooted, but with greater numbers in places where trees\nare shallow rooted. Some fences and roadway signs blown\nover.\n- A few roads impassable from debris, particularly within\nurban or heavily wooded places. Hazardous driving\nconditions on bridges and other elevated roadways.\n- Scattered power and communications outages.\n\n* STORM SURGE\n- LATEST LOCAL FORECAST: Localized storm surge possible\n- Peak Storm Surge Inundation: The potential for up to 2 feet\nabove ground somewhere within surge prone areas\n- Window of concern: Tuesday evening until Thursday afternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for storm\nsurge flooding greater than 1 foot above ground\n- The storm surge threat has increased from the previous\nassessment.\n- PLAN: Plan for storm surge flooding greater than 1 foot\nabove ground.\n- PREPARE: Efforts should now be underway to prepare for\nstorm surge flooding, especially in low-lying vulnerable\nareas.\n- ACT: Take actions to protect life and property. Prepare to\nleave if evacuation orders are given for your area.\n\n- POTENTIAL IMPACTS: Limited\n- Localized inundation with storm surge flooding mainly along\nimmediate shorelines and in low-lying spots, or in areas\nfarther inland near where higher surge waters move ashore.\n- Sections of near-shore roads and parking lots become\noverspread with surge water. Driving conditions dangerous\nin places where surge water covers the road.\n- Moderate beach erosion. Heavy surf also breaching dunes,\nmainly in usually vulnerable locations. Strong rip currents.\n- Minor to locally moderate damage to marinas, docks,\nboardwalks, and piers. A few small craft broken away from\nmoorings.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST:\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, and ditches may\nbecome swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- For evacuation and shelter information, please refer to:\n- Santa Rosa County EMA: 850-983-5360 www.santarosa.fl.gov/emergency\n- For storm surge threat graphics and other storm impacts:\n- NWS Mobile: www.weather.gov/mob",
       "confidence": "high",
       "tags": [
         "weather",
@@ -4701,7 +5056,7 @@
     {
       "id": "nasa-eonet-storms",
       "status": "live",
-      "event_count": 19
+      "event_count": 20
     },
     {
       "id": "nasa-eonet-volcanoes",
