@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:34:56.937064Z",
+  "generated_at": "2026-07-25T08:22:22.796361Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -29,7 +29,7 @@
     {
       "id": "nasa-eonet-volcanoes",
       "status": "live",
-      "event_count": 9
+      "event_count": 8
     },
     {
       "id": "nasa-eonet-landslides",
