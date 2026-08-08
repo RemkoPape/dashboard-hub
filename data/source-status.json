@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:11:45.228272Z",
+  "generated_at": "2026-08-08T13:13:04.599316Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -13,27 +13,27 @@
     },
     {
       "id": "nasa-eonet-wildfires",
-      "status": "live",
-      "event_count": 20
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-floods",
-      "status": "live",
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-storms",
-      "status": "live",
-      "event_count": 20
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-volcanoes",
-      "status": "live",
-      "event_count": 6
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "live",
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
       "event_count": 0
     },
     {
@@ -48,8 +48,8 @@
     },
     {
       "id": "nasa-epic",
-      "status": "live",
-      "event_count": 10
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "airnow-api",
