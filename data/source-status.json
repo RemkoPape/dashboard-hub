@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-15T12:57:10.600274Z",
+  "generated_at": "2026-08-15T18:45:54.347034Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
       "status": "live",
-      "event_count": 14
+      "event_count": 15
     },
     {
       "id": "usgs-earthquakes-all-day",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: Expecting value: line 1 column 1 (char 0)",
+      "status": "error: HTTP Error 429: Too Many Requests",
       "event_count": 0
     },
     {
