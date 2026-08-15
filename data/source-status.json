@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:47:42.199913Z",
+  "generated_at": "2026-08-15T06:58:37.295012Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -13,27 +13,27 @@
     },
     {
       "id": "nasa-eonet-wildfires",
-      "status": "live",
-      "event_count": 20
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-floods",
-      "status": "live",
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-storms",
-      "status": "live",
-      "event_count": 20
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-volcanoes",
-      "status": "live",
-      "event_count": 5
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "live",
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
       "event_count": 0
     },
     {
@@ -43,13 +43,13 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: HTTP Error 429: Too Many Requests",
+      "status": "error: Expecting value: line 1 column 1 (char 0)",
       "event_count": 0
     },
     {
       "id": "nasa-epic",
-      "status": "live",
-      "event_count": 10
+      "status": "error: <urlopen error [Errno 101] Network is unreachable>",
+      "event_count": 0
     },
     {
       "id": "airnow-api",
