@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:15:58.819792Z",
+  "generated_at": "2026-08-29T07:01:14.651400Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)>",
+      "status": "error: Expecting value: line 1 column 1 (char 0)",
       "event_count": 0
     },
     {
