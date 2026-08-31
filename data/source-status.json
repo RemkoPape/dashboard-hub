@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:43:10.523412Z",
+  "generated_at": "2026-08-31T22:48:40.039611Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: <urlopen error _ssl.c:999: The handshake operation timed out>",
+      "status": "error: Expecting value: line 1 column 1 (char 0)",
       "event_count": 0
     },
     {
