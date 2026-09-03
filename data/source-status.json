@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03T11:09:48.787642Z",
+  "generated_at": "2026-09-03T16:23:12.116476Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
       "status": "live",
-      "event_count": 13
+      "event_count": 15
     },
     {
       "id": "usgs-earthquakes-all-day",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: <urlopen error timed out>",
+      "status": "error: Expecting value: line 1 column 1 (char 0)",
       "event_count": 0
     },
     {
