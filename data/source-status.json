@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:31:18.363610Z",
+  "generated_at": "2026-09-08T11:13:16.239968Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: <urlopen error _ssl.c:999: The handshake operation timed out>",
+      "status": "error: HTTP Error 429: Too Many Requests",
       "event_count": 0
     },
     {
