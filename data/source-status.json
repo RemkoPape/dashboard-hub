@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:19:00.315354Z",
+  "generated_at": "2026-09-18T04:39:07.827747Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -13,27 +13,27 @@
     },
     {
       "id": "nasa-eonet-wildfires",
-      "status": "live",
-      "event_count": 20
+      "status": "error: HTTP Error 500: Internal Server Error",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-floods",
-      "status": "live",
+      "status": "error: HTTP Error 500: Internal Server Error",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-storms",
-      "status": "live",
-      "event_count": 20
+      "status": "error: HTTP Error 500: Internal Server Error",
+      "event_count": 0
     },
     {
       "id": "nasa-eonet-volcanoes",
-      "status": "live",
+      "status": "error: HTTP Error 500: Internal Server Error",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "live",
+      "status": "error: HTTP Error 500: Internal Server Error",
       "event_count": 0
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: Expecting value: line 1 column 1 (char 0)",
+      "status": "error: HTTP Error 429: Too Many Requests",
       "event_count": 0
     },
     {
