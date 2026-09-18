@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T04:39:07.827747Z",
+  "generated_at": "2026-09-18T11:09:40.017351Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -13,27 +13,27 @@
     },
     {
       "id": "nasa-eonet-wildfires",
-      "status": "error: HTTP Error 500: Internal Server Error",
-      "event_count": 0
+      "status": "live",
+      "event_count": 20
     },
     {
       "id": "nasa-eonet-floods",
-      "status": "error: HTTP Error 500: Internal Server Error",
+      "status": "live",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-storms",
-      "status": "error: HTTP Error 500: Internal Server Error",
-      "event_count": 0
+      "status": "live",
+      "event_count": 20
     },
     {
       "id": "nasa-eonet-volcanoes",
-      "status": "error: HTTP Error 500: Internal Server Error",
+      "status": "live",
       "event_count": 0
     },
     {
       "id": "nasa-eonet-landslides",
-      "status": "error: HTTP Error 500: Internal Server Error",
+      "status": "live",
       "event_count": 0
     },
     {
