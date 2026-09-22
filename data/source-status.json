@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:50:27.110863Z",
+  "generated_at": "2026-09-22T11:33:18.046294Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
@@ -43,7 +43,7 @@
     },
     {
       "id": "gdelt-conflict-docs",
-      "status": "error: Expecting value: line 1 column 1 (char 0)",
+      "status": "error: HTTP Error 429: Too Many Requests",
       "event_count": 0
     },
     {
