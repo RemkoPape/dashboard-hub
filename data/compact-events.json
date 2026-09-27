@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:06:24.032160Z",
+  "generated_at": "2026-09-27T05:15:01.477127Z",
   "event_count": 97,
   "events": [
     {
@@ -8,7 +8,7 @@
       "event_type": "natural_hazard",
       "subtype": "earthquake",
       "date_start": 1790371383309,
-      "date_updated": 1790430083040,
+      "date_updated": 1790458207826,
       "country": "",
       "region": "80 km ENE of Tadine, New Caledonia",
       "latitude": -21.2982,
@@ -290,21 +290,390 @@
       ]
     },
     {
-      "event_id": "tx2026szoalq",
-      "title": "M 2.8 - 17 km W of Charlotte, Texas",
+      "event_id": "ci41339711",
+      "title": "M 0.5 - 4 km WNW of Anza, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790455758574,
-      "date_updated": 1790456411408,
+      "date_start": 1790485464010,
+      "date_updated": 1790485663948,
       "country": "",
-      "region": "17 km W of Charlotte, Texas",
-      "latitude": 28.848,
-      "longitude": -98.884,
+      "region": "4 km WNW of Anza, CA",
+      "latitude": 33.5751666666667,
+      "longitude": -116.714166666667,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339711",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339711",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "aka2026tdfynt",
+      "title": "M 2.1 - 21 km SW of Anchorage, Alaska",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790485307304,
+      "date_updated": 1790485518580,
+      "country": "",
+      "region": "21 km SW of Anchorage, Alaska",
+      "latitude": 61.075,
+      "longitude": -150.169,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfynt",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfynt",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci41339703",
+      "title": "M 0.4 - 8 km WNW of Anza, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790485200660,
+      "date_updated": 1790485406802,
+      "country": "",
+      "region": "8 km WNW of Anza, CA",
+      "latitude": 33.5841666666667,
+      "longitude": -116.757,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339703",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339703",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "aka2026tdfwkt",
+      "title": "M 1.8 - 55 km NW of Ninilchik, Alaska",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790485157579,
+      "date_updated": 1790485258702,
+      "country": "",
+      "region": "55 km NW of Ninilchik, Alaska",
+      "latitude": 60.39,
+      "longitude": -152.396,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfwkt",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfwkt",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "aka2026tdfwcu",
+      "title": "M 2.1 - 11 km SW of South Van Horn, Alaska",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790485138692,
+      "date_updated": 1790485363278,
+      "country": "",
+      "region": "11 km SW of South Van Horn, Alaska",
+      "latitude": 64.725,
+      "longitude": -147.942,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfwcu",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfwcu",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "aka2026tdfryf",
+      "title": "M 1.1 - 79 km NNW of Karluk, Alaska",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790484855558,
+      "date_updated": 1790484897406,
+      "country": "",
+      "region": "79 km NNW of Karluk, Alaska",
+      "latitude": 58.25,
+      "longitude": -154.867,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfryf",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdfryf",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci41339695",
+      "title": "M 1.0 - 21 km ENE of Thermal, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790484752830,
+      "date_updated": 1790484954042,
+      "country": "",
+      "region": "21 km ENE of Thermal, CA",
+      "latitude": 33.7275,
+      "longitude": -115.944,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339695",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339695",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "nc75442847",
+      "title": "M 0.7 - 3 km NNW of The Geysers, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790484015080,
+      "date_updated": 1790484109405,
+      "country": "",
+      "region": "3 km NNW of The Geysers, CA",
+      "latitude": 38.8046684265137,
+      "longitude": -122.772499084473,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442847",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442847",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "nc75442842",
+      "title": "M 1.1 - 5 km WNW of The Geysers, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790482728290,
+      "date_updated": 1790482825413,
+      "country": "",
+      "region": "5 km WNW of The Geysers, CA",
+      "latitude": 38.7946662902832,
+      "longitude": -122.810668945312,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442842",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442842",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "us6000txwk",
+      "title": "M 4.5 - 145 km WNW of Lebu, Chile",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790482484454,
+      "date_updated": 1790483737040,
+      "country": "",
+      "region": "145 km WNW of Lebu, Chile",
+      "latitude": -37.1357,
+      "longitude": -75.1898,
       "severity": "unknown",
       "status": "reviewed",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026szoalq",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -325,27 +694,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026szoalq",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwk",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "aka2026tcplnl",
-      "title": "M 1.7 - 47 km SSE of King Salmon, Alaska",
+      "event_id": "aka2026tddduk",
+      "title": "M 2.9 - 24 km WSW of Point MacKenzie, Alaska",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790455618818,
-      "date_updated": 1790455719846,
+      "date_start": 1790480292815,
+      "date_updated": 1790485690296,
       "country": "",
-      "region": "47 km SSE of King Salmon, Alaska",
-      "latitude": 58.336,
-      "longitude": -156.216,
+      "region": "24 km WSW of Point MacKenzie, Alaska",
+      "latitude": 61.297,
+      "longitude": -150.413,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tcplnl",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tddduk",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -366,27 +735,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tcplnl",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tddduk",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "us6000txv0",
-      "title": "M 2.6 - 14 km ESE of Pearsall, Texas",
+      "event_id": "pr71534778",
+      "title": "M 2.1 - 3 km W of Fuig, Puerto Rico",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790455073018,
-      "date_updated": 1790455495040,
+      "date_start": 1790480049030,
+      "date_updated": 1790483637510,
       "country": "",
-      "region": "14 km ESE of Pearsall, Texas",
-      "latitude": 28.8598,
-      "longitude": -98.95,
+      "region": "3 km W of Fuig, Puerto Rico",
+      "latitude": 17.9838333333333,
+      "longitude": -66.9441666666667,
       "severity": "unknown",
       "status": "reviewed",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txv0",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534778",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -407,27 +776,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txv0",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534778",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "ci41339583",
-      "title": "M 1.0 - 12 km E of Desert Hot Springs, CA",
+      "event_id": "aka2026tdczdt",
+      "title": "M 2.0 - 19 km WNW of Beluga, Alaska",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790452346150,
-      "date_updated": 1790452543920,
+      "date_start": 1790479950421,
+      "date_updated": 1790480416233,
       "country": "",
-      "region": "12 km E of Desert Hot Springs, CA",
-      "latitude": 33.9653333333333,
-      "longitude": -116.371166666667,
+      "region": "19 km WNW of Beluga, Alaska",
+      "latitude": 61.179,
+      "longitude": -151.432,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339583",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdczdt",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -448,27 +817,150 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339583",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdczdt",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "us6000txut",
-      "title": "M 4.4 - 65 km WSW of Ollagüe, Chile",
+      "event_id": "ci41339679",
+      "title": "M 1.2 - 20 km ESE of Anza, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790452091508,
-      "date_updated": 1790453102040,
+      "date_start": 1790479832150,
+      "date_updated": 1790480041290,
       "country": "",
-      "region": "65 km WSW of Ollagüe, Chile",
-      "latitude": -21.352,
-      "longitude": -68.8675,
+      "region": "20 km ESE of Anza, CA",
+      "latitude": 33.4838333333333,
+      "longitude": -116.48,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339679",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339679",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci41339671",
+      "title": "M 2.3 - 19 km ESE of Anza, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790479785650,
+      "date_updated": 1790480039920,
+      "country": "",
+      "region": "19 km ESE of Anza, CA",
+      "latitude": 33.481,
+      "longitude": -116.486,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339671",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339671",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "ci41339663",
+      "title": "M 1.6 - 20 km ESE of Anza, CA",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790479769740,
+      "date_updated": 1790480416350,
+      "country": "",
+      "region": "20 km ESE of Anza, CA",
+      "latitude": 33.4796666666667,
+      "longitude": -116.483,
+      "severity": "unknown",
+      "status": "automatic",
+      "source_name": "USGS Earthquakes Past Day",
+      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339663",
+      "summary": "USGS Earthquakes Past Day",
+      "confidence": "high",
+      "tags": [
+        "earthquake",
+        "earthquake"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "Public domain",
+      "attribution": "USGS",
+      "source_id": "usgs-earthquakes-all-day",
+      "source_category": "earthquake",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 15,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "usgs-earthquakes-all-day",
+          "source_name": "USGS Earthquakes Past Day",
+          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339663",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "us6000txwf",
+      "title": "M 4.2 - 114 km S of Mişrātah, Libya",
+      "event_type": "natural_hazard",
+      "subtype": "earthquake",
+      "date_start": 1790479640796,
+      "date_updated": 1790481746040,
+      "country": "",
+      "region": "114 km S of Mişrātah, Libya",
+      "latitude": 31.341,
+      "longitude": 15.1559,
       "severity": "unknown",
       "status": "reviewed",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txut",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwf",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -489,68 +981,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txut",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txwf",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "us6000txux",
-      "title": "M 2.6 - 17 km NE of Pāhala, Hawaii",
+      "event_id": "aka2026tdcnwn",
+      "title": "M 2.1 - 44 km NE of Chase, Alaska",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790451714851,
-      "date_updated": 1790453321040,
+      "date_start": 1790479169623,
+      "date_updated": 1790479308424,
       "country": "",
-      "region": "17 km NE of Pāhala, Hawaii",
-      "latitude": 19.3226,
-      "longitude": -155.3735,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txux",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txux",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "hv75043997",
-      "title": "M 2.5 - 1 km NW of Pāhala, Hawaii",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790451666430,
-      "date_updated": 1790453454040,
-      "country": "",
-      "region": "1 km NW of Pāhala, Hawaii",
-      "latitude": 19.2108325958252,
-      "longitude": -155.48616027832,
+      "region": "44 km NE of Chase, Alaska",
+      "latitude": 62.695,
+      "longitude": -149.431,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043997",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdcnwn",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -571,68 +1022,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75043997",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdcnwn",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "us6000txur",
-      "title": "M 5.0 - 52 km NNW of Ruteng, Indonesia",
+      "event_id": "nc75442817",
+      "title": "M 1.4 - 6 km ESE of Redwood Valley, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790451421212,
-      "date_updated": 1790452486040,
+      "date_start": 1790477757720,
+      "date_updated": 1790484743071,
       "country": "",
-      "region": "52 km NNW of Ruteng, Indonesia",
-      "latitude": -8.1581,
-      "longitude": 120.3294,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txur",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "ci41339567",
-      "title": "M 0.4 - 4 km WSW of Anza, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790448707390,
-      "date_updated": 1790448910189,
-      "country": "",
-      "region": "4 km WSW of Anza, CA",
-      "latitude": 33.5386666666667,
-      "longitude": -116.707,
+      "region": "6 km ESE of Redwood Valley, CA",
+      "latitude": 39.2523345947266,
+      "longitude": -123.132164001465,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339567",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442817",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -653,27 +1063,27 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339567",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442817",
           "data_mode": "cached"
         }
       ]
     },
     {
-      "event_id": "nc75442537",
-      "title": "M 0.8 - 2 km NNW of The Geysers, CA",
+      "event_id": "ci41339655",
+      "title": "M 1.2 - 5 km NE of Banning, CA",
       "event_type": "natural_hazard",
       "subtype": "earthquake",
-      "date_start": 1790448485240,
-      "date_updated": 1790448579977,
+      "date_start": 1790477477130,
+      "date_updated": 1790477683357,
       "country": "",
-      "region": "2 km NNW of The Geysers, CA",
-      "latitude": 38.7919998168945,
-      "longitude": -122.761001586914,
+      "region": "5 km NE of Banning, CA",
+      "latitude": 33.9576666666667,
+      "longitude": -116.845833333333,
       "severity": "unknown",
       "status": "automatic",
       "source_name": "USGS Earthquakes Past Day",
       "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442537",
+      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339655",
       "summary": "USGS Earthquakes Past Day",
       "confidence": "high",
       "tags": [
@@ -694,417 +1104,7 @@
           "source_id": "usgs-earthquakes-all-day",
           "source_name": "USGS Earthquakes Past Day",
           "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442537",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "us6000txuj",
-      "title": "M 4.7 - 5 km N of Bowangshan, China",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790447502679,
-      "date_updated": 1790449066040,
-      "country": "",
-      "region": "5 km N of Bowangshan, China",
-      "latitude": 28.3596,
-      "longitude": 105.0553,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuj",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "nc75442517",
-      "title": "M 1.5 - 1 km WSW of Anderson Springs, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790447452330,
-      "date_updated": 1790449645185,
-      "country": "",
-      "region": "1 km WSW of Anderson Springs, CA",
-      "latitude": 38.7719993591309,
-      "longitude": -122.707336425781,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442517",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442517",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "us6000txuf",
-      "title": "M 4.8 - 74 km ENE of Tadine, New Caledonia",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790447123929,
-      "date_updated": 1790448468040,
-      "country": "",
-      "region": "74 km ENE of Tadine, New Caledonia",
-      "latitude": -21.3627,
-      "longitude": 168.5681,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuf",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuf",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "nc75442512",
-      "title": "M 0.2 - 7 km WNW of Cobb, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790446608420,
-      "date_updated": 1790446704666,
-      "country": "",
-      "region": "7 km WNW of Cobb, CA",
-      "latitude": 38.8381652832031,
-      "longitude": -122.806999206543,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442512",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442512",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "ci41339559",
-      "title": "M 1.7 - 20 km ENE of Thermal, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790446451730,
-      "date_updated": 1790447119870,
-      "country": "",
-      "region": "20 km ENE of Thermal, CA",
-      "latitude": 33.727,
-      "longitude": -115.945,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339559",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339559",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "nc75442507",
-      "title": "M 0.7 - 8 km WNW of Cobb, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790446100040,
-      "date_updated": 1790446194626,
-      "country": "",
-      "region": "8 km WNW of Cobb, CA",
-      "latitude": 38.8371658325195,
-      "longitude": -122.809829711914,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442507",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442507",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "us6000txuc",
-      "title": "M 4.6 - south of Africa",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790445020706,
-      "date_updated": 1790446065040,
-      "country": "",
-      "region": "south of Africa",
-      "latitude": -48.5563,
-      "longitude": 31.1369,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuc",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txuc",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "ci41339551",
-      "title": "M 0.3 - 12 km NNW of Warner Springs, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790444846930,
-      "date_updated": 1790445049036,
-      "country": "",
-      "region": "12 km NNW of Warner Springs, CA",
-      "latitude": 33.3718333333333,
-      "longitude": -116.703166666667,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339551",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339551",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "nc75442482",
-      "title": "M 2.3 - 4 km WNW of Orinda, CA",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790444487740,
-      "date_updated": 1790451550064,
-      "country": "",
-      "region": "4 km WNW of Orinda, CA",
-      "latitude": 37.8891677856445,
-      "longitude": -122.224334716797,
-      "severity": "unknown",
-      "status": "automatic",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442482",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442482",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "pr71534753",
-      "title": "M 2.1 - 2 km WSW of Fuig, Puerto Rico",
-      "event_type": "natural_hazard",
-      "subtype": "earthquake",
-      "date_start": 1790444443220,
-      "date_updated": 1790445109390,
-      "country": "",
-      "region": "2 km WSW of Fuig, Puerto Rico",
-      "latitude": 17.9746666666667,
-      "longitude": -66.9388333333333,
-      "severity": "unknown",
-      "status": "reviewed",
-      "source_name": "USGS Earthquakes Past Day",
-      "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-      "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534753",
-      "summary": "USGS Earthquakes Past Day",
-      "confidence": "high",
-      "tags": [
-        "earthquake",
-        "earthquake"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "Public domain",
-      "attribution": "USGS",
-      "source_id": "usgs-earthquakes-all-day",
-      "source_category": "earthquake",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 15,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "usgs-earthquakes-all-day",
-          "source_name": "USGS Earthquakes Past Day",
-          "source_url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
-          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534753",
+          "source_record_url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41339655",
           "data_mode": "cached"
         }
       ]
@@ -2463,6 +2463,88 @@
       ]
     },
     {
+      "event_id": "EONET_24786",
+      "title": "Hurricane Nolo",
+      "event_type": "natural_hazard",
+      "subtype": "storm",
+      "date_start": "2026-09-26T18:00:00Z",
+      "date_updated": "2026-09-26T18:00:00Z",
+      "country": "",
+      "region": "",
+      "latitude": 16.8,
+      "longitude": -155.7,
+      "severity": "unknown",
+      "status": "active",
+      "source_name": "NASA EONET Storms",
+      "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
+      "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786/geojson",
+      "summary": "NASA EONET Storms",
+      "confidence": "moderate",
+      "tags": [
+        "storm",
+        "storm"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "NASA data policy",
+      "attribution": "NASA EONET",
+      "source_id": "nasa-eonet-storms",
+      "source_category": "storm",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 30,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nasa-eonet-storms",
+          "source_name": "NASA EONET Storms",
+          "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
+          "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786/geojson",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
+      "event_id": "EONET_24786",
+      "title": "Hurricane Nolo",
+      "event_type": "natural_hazard",
+      "subtype": "storm",
+      "date_start": "2026-09-27T00:00:00Z",
+      "date_updated": "2026-09-27T00:00:00Z",
+      "country": "",
+      "region": "",
+      "latitude": 16.7,
+      "longitude": -156.1,
+      "severity": "unknown",
+      "status": "active",
+      "source_name": "NASA EONET Storms",
+      "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
+      "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786/geojson",
+      "summary": "NASA EONET Storms",
+      "confidence": "moderate",
+      "tags": [
+        "storm",
+        "storm"
+      ],
+      "map_page": "../events/",
+      "data_mode": "cached",
+      "license": "NASA data policy",
+      "attribution": "NASA EONET",
+      "source_id": "nasa-eonet-storms",
+      "source_category": "storm",
+      "source_adapter": "geojson",
+      "source_refresh_minutes": 30,
+      "grouped_source_count": 1,
+      "grouped_sources": [
+        {
+          "source_id": "nasa-eonet-storms",
+          "source_name": "NASA EONET Storms",
+          "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
+          "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786/geojson",
+          "data_mode": "cached"
+        }
+      ]
+    },
+    {
       "event_id": "EONET_24787",
       "title": "Typhoon Surigae",
       "event_type": "natural_hazard",
@@ -2668,89 +2750,7 @@
       ]
     },
     {
-      "event_id": "EONET_24787",
-      "title": "Typhoon Surigae",
-      "event_type": "natural_hazard",
-      "subtype": "storm",
-      "date_start": "2026-09-25T00:00:00Z",
-      "date_updated": "2026-09-25T00:00:00Z",
-      "country": "",
-      "region": "",
-      "latitude": 19.9,
-      "longitude": 130.7,
-      "severity": "unknown",
-      "status": "active",
-      "source_name": "NASA EONET Storms",
-      "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
-      "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787/geojson",
-      "summary": "NASA EONET Storms",
-      "confidence": "moderate",
-      "tags": [
-        "storm",
-        "storm"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "NASA data policy",
-      "attribution": "NASA EONET",
-      "source_id": "nasa-eonet-storms",
-      "source_category": "storm",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 30,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nasa-eonet-storms",
-          "source_name": "NASA EONET Storms",
-          "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
-          "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787/geojson",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "EONET_24787",
-      "title": "Typhoon Surigae",
-      "event_type": "natural_hazard",
-      "subtype": "storm",
-      "date_start": "2026-09-25T06:00:00Z",
-      "date_updated": "2026-09-25T06:00:00Z",
-      "country": "",
-      "region": "",
-      "latitude": 20.7,
-      "longitude": 129.3,
-      "severity": "unknown",
-      "status": "active",
-      "source_name": "NASA EONET Storms",
-      "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
-      "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787/geojson",
-      "summary": "NASA EONET Storms",
-      "confidence": "moderate",
-      "tags": [
-        "storm",
-        "storm"
-      ],
-      "map_page": "../events/",
-      "data_mode": "cached",
-      "license": "NASA data policy",
-      "attribution": "NASA EONET",
-      "source_id": "nasa-eonet-storms",
-      "source_category": "storm",
-      "source_adapter": "geojson",
-      "source_refresh_minutes": 30,
-      "grouped_source_count": 1,
-      "grouped_sources": [
-        {
-          "source_id": "nasa-eonet-storms",
-          "source_name": "NASA EONET Storms",
-          "source_url": "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?status=open&days=30&category=severeStorms",
-          "source_record_url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787/geojson",
-          "data_mode": "cached"
-        }
-      ]
-    },
-    {
-      "event_id": "urn:oid:2.49.0.1.840.0-KEEPALIVE-2618",
+      "event_id": "urn:oid:2.49.0.1.840.0-KEEPALIVE-33590",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
@@ -2791,14 +2791,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.020.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.55cc71e84c73dc3cd07fd1253305cf028d9cbdd7.002.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Kona",
+      "region": "Glasscock, TX",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -2806,7 +2806,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kailua-Kona\n- Captain Cook\n- Milolii\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 10-15 mph with gusts to 20 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Wind less than 39 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: The sustained wind should remain less than tropical\nstorm force. Conditions may still be gusty.\n- PREPARE: Listen for any instructions from local officials.\n- ACT: Ensure emergency readiness should the forecast change.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional wind impacts expected. Community\nofficials are now assessing the extent of actual wind\nimpacts accordingly.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has decreased from the previous\nassessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional surge impacts expected. Community\nofficials are now assessing the extent of actual surge\nimpacts accordingly.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is somewhat favorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for a few\ntornadoes\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plans should still include the potential for a few\ntornadoes.\n- PREPARE: Keep informed should additional weather alerts be\nneeded.\n- ACT: If a tornado warning is issued, be ready to shelter\nquickly.\n\n- POTENTIAL IMPACTS: Limited\n- The occurrence of isolated tornadoes can hinder the\nexecution of emergency plans during tropical events.\n- A few places may experience tornado damage, along with\npower and communications disruptions.\n- Locations could realize roofs peeled off buildings,\nchimneys toppled, mobile homes pushed off foundations or\noverturned, large tree tops and branches snapped off,\nshallow-rooted trees knocked over, moving vehicles blown\noff roads, and small boats pulled from moorings.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "At 1208 AM CDT, Doppler radar indicated thunderstorms producing heavy\nrain across the warned area. Between 1 and 2 inches of rain have\nfallen. Additional rainfall amounts of 0.5 to 1 inch are possible in\nthe warned area. Flash flooding is ongoing or expected to begin\nshortly.\n\nHAZARD...Flash flooding caused by thunderstorms.\n\nSOURCE...Radar indicated.\n\nIMPACT...Flash flooding of small creeks and streams, urban areas,\nhighways, streets and underpasses as well as other poor\ndrainage and low-lying areas.\n\nSome locations that will experience flash flooding include...\nMainly rural areas of Northeastern Glasscock County.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -2832,22 +2832,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.005.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.004.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Molokai Leeward South",
+      "region": "Waters from Fenwick Island DE to Chintoteague VA from 20 to 60 NM",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Moderate",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kaunakakai\n- Kualapuu\n- Kepuhi\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 55 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 20 to 25 kt with gusts up to 30 kt and\nseas 8 to 12 ft.\n\n* WHERE...Waters from Fenwick Island DE to Chintoteague VA from\n20 to 60 NM.\n\n* WHEN...Until 7 AM EDT Sunday.\n\n* IMPACTS...Strong winds will cause hazardous seas which could\ncapsize or damage vessels and reduce visibility.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -2873,22 +2873,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.019.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.010.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Haleakala Summit",
+      "region": "Currituck Sound",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Haleakala National Park\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 50 mph\n- Window for Tropical Storm force winds: until Sunday morning\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Last minute efforts to protect life and property\nshould now be complete. The area remains subject to\nsignificant wind damage.\n- ACT: Now is the time to shelter from dangerous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 20 kt.\n\n* WHERE...Currituck Sound.\n\n* WHEN...Until 6 AM EDT Sunday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -2914,22 +2914,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.011.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.005.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Maui Windward West",
+      "region": "Chesapeake Bay from Smith Point to Windmill Point VA; Chesapeake Bay from Windmill Point to New Point Comfort VA; Chesapeake Bay from New Point Comfort to Little Creek VA; Chesapeake Bay from Little Creek VA to Cape Henry VA including the Chesapeake Bay Bridge Tunnel",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Wailuku\n- Waihee\n- Kapalua\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Last minute efforts to protect life and property\nshould now be complete. The area remains subject to\nsignificant wind damage.\n- ACT: Now is the time to shelter from dangerous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 20 kt with gusts up to 30 kt and\nwaves 2 to 5 ft.\n\n* WHERE...Chesapeake Bay from Smith Point to Windmill Point VA,\nChesapeake Bay from Windmill Point to New Point Comfort VA,\nChesapeake Bay from New Point Comfort to Little Creek VA and\nChesapeake Bay from Little Creek VA to Cape Henry VA including\nthe Chesapeake Bay Bridge Tunnel.\n\n* WHEN...Until 1 AM EDT Monday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -2955,22 +2955,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.002.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.008.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Molokai Southeast",
+      "region": "James River from JRB to HRBT, Including the Elizabeth River",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Pukoo\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 20 kt with gusts up to 25 kt and\nwaves 1 to 2 ft.\n\n* WHERE...James River from JRB to HRBT, Including the Elizabeth\nRiver.\n\n* WHEN...Until 1 AM EDT Monday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -2996,22 +2996,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.014.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.006.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Maui Central Valley South",
+      "region": "Coastal waters from Parramore Island to Cape Charles Light VA out 20 NM; Coastal Waters from Cape Charles Light to Virginia-North Carolina border out 20 NM",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Maalaea\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Last minute efforts to protect life and property\nshould now be complete. The area remains subject to\nsignificant wind damage.\n- ACT: Now is the time to shelter from dangerous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 20 kt with gusts up to 25 kt and\nseas 5 to 8 ft.\n\n* WHERE...Coastal waters from Parramore Island to Cape Charles\nLight VA out 20 NM and Coastal Waters from Cape Charles Light\nto Virginia-North Carolina border out 20 NM.\n\n* WHEN...Until 1 AM EDT Monday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3037,22 +3037,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.006.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.001.2",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Lanai Windward",
+      "region": "Coastal waters from Fenwick Island DE to Chincoteague VA out 20 NM; Coastal waters from Chincoteague to Parramore Island VA out 20 NM",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Shipwreck Beach\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 65 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 20 kt with gusts up to 30 kt and\nseas 5 to 8 ft expected.\n\n* WHERE...Coastal waters from Fenwick Island DE to Chincoteague\nVA out 20 NM and Coastal waters from Chincoteague to Parramore\nIsland VA out 20 NM.\n\n* WHEN...Until 1 AM EDT Monday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3078,22 +3078,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.021.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.009.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Big Island South",
+      "region": "Rappahannock River from Urbanna to Windmill Point; York River; James River from Jamestown to the James River Bridge",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Hawaiian Ocean View Estates\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 70 mph\n- Window for Tropical Storm force winds: until late this\nevening\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Last minute efforts to protect life and property\nshould now be complete. The area remains subject to\nsignificant wind damage.\n- ACT: Now is the time to shelter from dangerous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has decreased from the previous\nassessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional surge impacts expected. Community\nofficials are now assessing the extent of actual surge\nimpacts accordingly.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nmoderate flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nmoderate flooding from heavy rain. Evacuations and rescues\nare possible.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings. Failure to take\naction may result in serious injury or loss of life.\n\n- POTENTIAL IMPACTS: Significant\n- Moderate rainfall flooding may prompt several evacuations\nand rescues.\n- Rivers and tributaries may quickly become swollen with\nswifter currents and overspill their banks in a few places,\nespecially in usually vulnerable spots. Small streams,\ncreeks, canals, arroyos, and ditches overflow.\n- Flood waters can enter some structures or weaken\nfoundations. Several places may experience expanded areas\nof rapid inundation at underpasses, low-lying spots, and\npoor drainage areas. Some streets and parking lots take on\nmoving water as storm drains and retention ponds overflow.\nDriving conditions become hazardous. Some road and bridge\nclosures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is somewhat favorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for a few\ntornadoes\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Emergency plans should continue to include possible\ntornadoes.\n- PREPARE: Stay within your shelter keeping informed of the\nlatest tornado situation.\n- ACT: Move quickly to the safest place within your shelter\nif a tornado warning is issued.\n\n- POTENTIAL IMPACTS: Limited\n- The occurrence of isolated tornadoes can hinder the\nexecution of emergency plans during tropical events.\n- A few places may experience tornado damage, along with\npower and communications disruptions.\n- Locations could realize roofs peeled off buildings,\nchimneys toppled, mobile homes pushed off foundations or\noverturned, large tree tops and branches snapped off,\nshallow-rooted trees knocked over, moving vehicles blown\noff roads, and small boats pulled from moorings.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds around 20 kt with gusts up to 25 kt and\nwaves 1 to 2 ft.\n\n* WHERE...Rappahannock River from Urbanna to Windmill Point,\nYork River and James River from Jamestown to the James River\nBridge.\n\n* WHEN...Until 4 AM EDT Sunday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3119,22 +3119,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.024.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.6e6e35c00d5f404c73605d2cf6f92a92d24efa7b.007.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Big Island North",
+      "region": "Coastal waters from NC VA border to Currituck Beach Light NC out 20 NM",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kamuela\n- Hawi\n- Honokaa\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Last minute efforts to protect life and property\nshould now be complete. The area remains subject to\nsignificant wind damage.\n- ACT: Now is the time to shelter from dangerous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has decreased from the previous\nassessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional surge impacts expected. Community\nofficials are now assessing the extent of actual surge\nimpacts accordingly.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nmoderate flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nmoderate flooding from heavy rain. Evacuations and rescues\nare possible.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings. Failure to take\naction may result in serious injury or loss of life.\n\n- POTENTIAL IMPACTS: Significant\n- Moderate rainfall flooding may prompt several evacuations\nand rescues.\n- Rivers and tributaries may quickly become swollen with\nswifter currents and overspill their banks in a few places,\nespecially in usually vulnerable spots. Small streams,\ncreeks, canals, arroyos, and ditches overflow.\n- Flood waters can enter some structures or weaken\nfoundations. Several places may experience expanded areas\nof rapid inundation at underpasses, low-lying spots, and\npoor drainage areas. Some streets and parking lots take on\nmoving water as storm drains and retention ponds overflow.\nDriving conditions become hazardous. Some road and bridge\nclosures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is somewhat favorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for a few\ntornadoes\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Emergency plans should continue to include possible\ntornadoes.\n- PREPARE: Stay within your shelter keeping informed of the\nlatest tornado situation.\n- ACT: Move quickly to the safest place within your shelter\nif a tornado warning is issued.\n\n- POTENTIAL IMPACTS: Limited\n- The occurrence of isolated tornadoes can hinder the\nexecution of emergency plans during tropical events.\n- A few places may experience tornado damage, along with\npower and communications disruptions.\n- Locations could realize roofs peeled off buildings,\nchimneys toppled, mobile homes pushed off foundations or\noverturned, large tree tops and branches snapped off,\nshallow-rooted trees knocked over, moving vehicles blown\noff roads, and small boats pulled from moorings.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 20 kt with gusts up to 25 kt and\nseas 5 to 8 ft.\n\n* WHERE...Coastal waters from NC VA border to Currituck Beach\nLight NC out 20 NM.\n\n* WHEN...Until 1 AM EDT Monday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3160,22 +3160,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.008.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.f6147ed0e73c7fa4f61a4bfdc422b4b53fa366ac.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Lanai South",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Manele Harbor\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 30-40 mph with gusts to 55 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No significant rainfall forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...For the Beach Hazards Statement, minor tidal overflow\nexpected due to the combination of high tides and elevated\nsurf. For the Coastal Flood Advisory, minor coastal flooding\nexpected due to the combination of high tides and elevated\nsurf.\n\n* WHERE...San Diego County Coastal Areas and Orange County\nCoastal Areas.\n\n* WHEN...For the Beach Hazards Statement, through late Sunday\nnight. For the Coastal Flood Advisory, from 5 AM Monday to 5\nPM PDT Wednesday.\n\n* IMPACTS...Minor coastal flooding and minor coastal erosion\nexpected during high tides. Additionally, elevated surf will\nlead to strong rip currents.\n\n* ADDITIONAL DETAILS...Elevated surf of 3-5 feet expected. Local\nsets to 6 feet possible on south-facing beaches. Morning high\ntides are expected to peak between 6.7 and 7.0 feet through\nWednesday, peaking Tuesday morning. The listed tide predictions\nhave been corrected to reflect current trends in actual tide\nobservations.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3201,22 +3201,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.013.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.f6147ed0e73c7fa4f61a4bfdc422b4b53fa366ac.001.2",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Maui Central Valley North",
+      "region": "San Diego County Coastal Areas; Orange County Coastal",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Moderate",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kahului\n- Puunene\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 25-35 mph with gusts to 50 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Wind less than 39 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: The sustained wind should remain less than tropical\nstorm force. Conditions may still be gusty.\n- PREPARE: Listen for any instructions from local officials.\n- ACT: Ensure emergency readiness should the forecast change.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional wind impacts expected. Community\nofficials are now assessing the extent of actual wind\nimpacts accordingly.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...For the Beach Hazards Statement, minor tidal overflow\nexpected due to the combination of high tides and elevated\nsurf. For the Coastal Flood Advisory, minor coastal flooding\nexpected due to the combination of high tides and elevated\nsurf.\n\n* WHERE...San Diego County Coastal Areas and Orange County\nCoastal Areas.\n\n* WHEN...For the Beach Hazards Statement, through late Sunday\nnight. For the Coastal Flood Advisory, from 5 AM Monday to 5\nPM PDT Wednesday.\n\n* IMPACTS...Minor coastal flooding and minor coastal erosion\nexpected during high tides. Additionally, elevated surf will\nlead to strong rip currents.\n\n* ADDITIONAL DETAILS...Elevated surf of 3-5 feet expected. Local\nsets to 6 feet possible on south-facing beaches. Morning high\ntides are expected to peak between 6.7 and 7.0 feet through\nWednesday, peaking Tuesday morning. The listed tide predictions\nhave been corrected to reflect current trends in actual tide\nobservations.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3242,22 +3242,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.023.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.f4ed991c69dd7bd8cf60f94bf8ce509ede149705.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Big Island East",
+      "region": "Northern Litchfield; Southern Litchfield; Northern Berkshire; Southern Berkshire; Eastern Ulster; Western Dutchess; Eastern Dutchess",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Moderate",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Hilo\n- Pahoa\n- Volcano\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 15-25 mph with gusts to 30 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Remaining efforts to protect life and property\nshould be completed as soon as possible. Prepare for\nsignificant wind damage.\n- ACT: Move to safe shelter before the wind becomes hazardous.\n\n- POTENTIAL IMPACTS: Significant\n- Some damage to roofing and siding materials, along with\ndamage to porches, awnings, carports, and sheds. A few\nbuildings experiencing window, door, and garage door\nfailures. Mobile homes damaged, especially if unanchored.\nUnsecured lightweight objects become dangerous projectiles.\n- Several large trees snapped or uprooted, but with greater\nnumbers in places where trees are shallow rooted. Several\nfences and roadway signs blown over.\n- Some roads impassable from large debris, and more within\nurban or heavily wooded places. A few bridges, causeways,\nand access routes impassable.\n- Scattered power and communications outages, but more\nprevalent in areas with above ground lines.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has decreased from the previous\nassessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional surge impacts expected. Community\nofficials are now assessing the extent of actual surge\nimpacts accordingly.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: Additional 1-3 inches, with locally\nhigher amounts\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nmoderate flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nmoderate flooding from heavy rain. Evacuations and rescues\nare possible.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings. Failure to take\naction may result in serious injury or loss of life.\n\n- POTENTIAL IMPACTS: Significant\n- Moderate rainfall flooding may prompt several evacuations\nand rescues.\n- Rivers and tributaries may quickly become swollen with\nswifter currents and overspill their banks in a few places,\nespecially in usually vulnerable spots. Small streams,\ncreeks, canals, arroyos, and ditches overflow.\n- Flood waters can enter some structures or weaken\nfoundations. Several places may experience expanded areas\nof rapid inundation at underpasses, low-lying spots, and\npoor drainage areas. Some streets and parking lots take on\nmoving water as storm drains and retention ponds overflow.\nDriving conditions become hazardous. Some road and bridge\nclosures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is somewhat favorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for a few\ntornadoes\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Emergency plans should include the potential for a\nfew tornadoes.\n- PREPARE: If your shelter is particularly vulnerable to\ntornadoes, prepare to relocate to safe shelter before\nhazardous weather arrives.\n- ACT: If a tornado warning is issued, be ready to shelter\nquickly.\n\n- POTENTIAL IMPACTS: Limited\n- The occurrence of isolated tornadoes can hinder the\nexecution of emergency plans during tropical events.\n- A few places may experience tornado damage, along with\npower and communications disruptions.\n- Locations could realize roofs peeled off buildings,\nchimneys toppled, mobile homes pushed off foundations or\noverturned, large tree tops and branches snapped off,\nshallow-rooted trees knocked over, moving vehicles blown\noff roads, and small boats pulled from moorings.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northeast winds 15 to 25 mph with gusts up to 40 to 45 mph.\n\n* WHERE...In Connecticut, Litchfield County. In Massachusetts,\nBerkshire County. In New York, Dutchess and Eastern Ulster\nCounties.\n\n* WHEN...Until noon EDT today.\n\n* IMPACTS...Gusty winds will blow around unsecured objects. Tree\nlimbs could be blown down and a few power outages may result.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3283,22 +3283,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.025.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.07f067646c4dbd643a990d5f059398e041066c39.003.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Kohala",
+      "region": "Coastal waters from Cape Mendocino to Pt. Arena CA out 10 nm",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kawaihae\n- Waikoloa Village\n- Mahukona\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 65 mph\n- Window for Tropical Storm force winds: until late this\nevening\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 58\nto 73 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for dangerous wind of equivalent strong tropical\nstorm force.\n- PREPARE: Last minute efforts to protect life and property\nshould now be complete. The area remains subject to\nsignificant wind damage.\n- ACT: Now is the time to shelter from dangerous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has decreased from the previous\nassessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional surge impacts expected. Community\nofficials are now assessing the extent of actual surge\nimpacts accordingly.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is somewhat favorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for a few\ntornadoes\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Emergency plans should continue to include possible\ntornadoes.\n- PREPARE: Stay within your shelter keeping informed of the\nlatest tornado situation.\n- ACT: Move quickly to the safest place within your shelter\nif a tornado warning is issued.\n\n- POTENTIAL IMPACTS: Limited\n- The occurrence of isolated tornadoes can hinder the\nexecution of emergency plans during tropical events.\n- A few places may experience tornado damage, along with\npower and communications disruptions.\n- Locations could realize roofs peeled off buildings,\nchimneys toppled, mobile homes pushed off foundations or\noverturned, large tree tops and branches snapped off,\nshallow-rooted trees knocked over, moving vehicles blown\noff roads, and small boats pulled from moorings.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 10 to 20 kt with gusts to 30 kt and seas\n6 to 9 feet.\n\n* WHERE...Coastal waters from Cape Mendocino to Pt. Arena CA out\n10 nm.\n\n* WHEN...Until 9 PM PDT Sunday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3324,22 +3324,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.015.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.07f067646c4dbd643a990d5f059398e041066c39.004.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Windward Haleakala",
+      "region": "Waters from Cape Mendocino to Pt. Arena CA from 10 to 60 nm",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Haiku\n- Hana\n- Kipahulu\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 25-35 mph with gusts to 50 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Northwest winds 15 to 25 kt with gusts to 30 kt and seas\n9 to 11 feet.\n\n* WHERE...Waters from Cape Mendocino to Pt. Arena CA from 10 to\n60 nm.\n\n* WHEN...Until 9 PM PDT Sunday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3365,22 +3365,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.017.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.07f067646c4dbd643a990d5f059398e041066c39.002.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "South Maui/Upcountry",
+      "region": "Coastal waters from Pt. St. George to Cape Mendocino CA out 10 nm",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kihei\n- Wailea\n- Keokea\n\n* WIND\n- LATEST LOCAL FORECAST: Below tropical storm force wind\n- Peak Wind Forecast: 15-25 mph with gusts to 35 mph\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Wind less than 39 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: The sustained wind should remain less than tropical\nstorm force. Conditions may still be gusty.\n- PREPARE: Listen for any instructions from local officials.\n- ACT: Ensure emergency readiness should the forecast change.\n\n- REALIZED IMPACTS: Being Assessed\n- Little to no additional wind impacts expected. Community\nofficials are now assessing the extent of actual wind\nimpacts accordingly.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Steep seas 4 to 7 feet.\n\n* WHERE...Coastal waters from Pt. St. George to Cape Mendocino\nCA out 10 nm.\n\n* WHEN...Until 9 AM PDT Sunday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3406,22 +3406,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.007.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.07f067646c4dbd643a990d5f059398e041066c39.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Lanai Leeward",
+      "region": "Waters from Pt. St. George to Cape Mendocino CA from 10 to 60 nm",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Kaumalapau Harbor\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 65 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...North winds 15 to 25 kt with gusts to 30 kt and seas 7\nto 9 feet.\n\n* WHERE...Waters from Pt. St. George to Cape Mendocino CA from\n10 to 60 nm.\n\n* WHEN...Until 9 PM PDT Sunday.\n\n* IMPACTS...Conditions will be hazardous to small craft.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3447,156 +3447,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.027.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.05f8b9ed3463465de6ce3b06318b476d06e52703.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Big Island Summit",
-      "latitude": [
-        [
-          [
-            -155.412,
-            19.74
-          ],
-          [
-            -155.455,
-            19.737
-          ],
-          [
-            -155.505,
-            19.763
-          ],
-          [
-            -155.556,
-            19.795
-          ],
-          [
-            -155.57,
-            19.805
-          ],
-          [
-            -155.577,
-            19.824
-          ],
-          [
-            -155.566,
-            19.85
-          ],
-          [
-            -155.522,
-            19.877
-          ],
-          [
-            -155.478,
-            19.899
-          ],
-          [
-            -155.439,
-            19.893
-          ],
-          [
-            -155.401,
-            19.895
-          ],
-          [
-            -155.37,
-            19.871
-          ],
-          [
-            -155.368,
-            19.813
-          ],
-          [
-            -155.383,
-            19.779
-          ],
-          [
-            -155.412,
-            19.74
-          ]
-        ]
-      ],
-      "longitude": [
-        [
-          [
-            -155.582,
-            19.324
-          ],
-          [
-            -155.636,
-            19.298
-          ],
-          [
-            -155.713,
-            19.281
-          ],
-          [
-            -155.732,
-            19.317
-          ],
-          [
-            -155.724,
-            19.398
-          ],
-          [
-            -155.711,
-            19.462
-          ],
-          [
-            -155.695,
-            19.528
-          ],
-          [
-            -155.656,
-            19.572
-          ],
-          [
-            -155.569,
-            19.606
-          ],
-          [
-            -155.516,
-            19.609
-          ],
-          [
-            -155.459,
-            19.595
-          ],
-          [
-            -155.415,
-            19.567
-          ],
-          [
-            -155.396,
-            19.536
-          ],
-          [
-            -155.434,
-            19.483
-          ],
-          [
-            -155.477,
-            19.427
-          ],
-          [
-            -155.528,
-            19.367
-          ],
-          [
-            -155.582,
-            19.324
-          ]
-        ]
-      ],
-      "severity": "Severe",
+      "region": "Burleigh; Kidder; Emmons; Logan; McIntosh; Eastern Morton; Eastern Sioux",
+      "latitude": null,
+      "longitude": null,
+      "severity": "Moderate",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Mauna Kea Summit\n- Mauna Loa Summit\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 50 mph\n- Window for Tropical Storm force winds: through the next few\nhours\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: Additional around 1 inch\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for\nlocalized flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: Emergency plans should include the potential for\nlocalized flooding from heavy rain.\n- PREPARE: Consider protective actions if you are in an area\nvulnerable to flooding.\n- ACT: Heed any flood watches and warnings.\n\n- POTENTIAL IMPACTS: Limited\n- Localized rainfall flooding may prompt a few evacuations.\n- Rivers and tributaries may quickly rise with swifter\ncurrents. Small streams, creeks, canals, arroyos, and\nditches may become swollen and overflow in spots.\n- Flood waters can enter a few structures, especially in\nusually vulnerable spots. A few places where rapid ponding\nof water occurs at underpasses, low-lying spots, and poor\ndrainage areas. Several storm drains and retention ponds\nbecome near-full and begin to overflow. Some brief road and\nbridge closures.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is somewhat favorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for a few\ntornadoes\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Emergency plans should continue to include possible\ntornadoes.\n- PREPARE: Stay within your shelter keeping informed of the\nlatest tornado situation.\n- ACT: Move quickly to the safest place within your shelter\nif a tornado warning is issued.\n\n- POTENTIAL IMPACTS: Limited\n- The occurrence of isolated tornadoes can hinder the\nexecution of emergency plans during tropical events.\n- A few places may experience tornado damage, along with\npower and communications disruptions.\n- Locations could realize roofs peeled off buildings,\nchimneys toppled, mobile homes pushed off foundations or\noverturned, large tree tops and branches snapped off,\nshallow-rooted trees knocked over, moving vehicles blown\noff roads, and small boats pulled from moorings.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "Patchy fog will reduce visibility to one quarter mile or less in\nparts of south central North Dakota late tonight. Motorists\nshould be prepared for rapidly changing conditions and use extra\ncaution traveling. Use low beam headlights and be extra cautious\nat intersections and railroad crossings.\n\nThe fog is expected to dissipate by sunrise Sunday morning.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3622,22 +3488,22 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.003.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.a27a7eb8b3435325ce6a0a4f18fd5e0a00ecf2f2.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Molokai North",
+      "region": "Hawaii in Hawaii, HI",
       "latitude": null,
       "longitude": null,
-      "severity": "Severe",
+      "severity": "Minor",
       "status": "Actual",
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Hoolehua\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...The island of Hawaii in Hawaii County...\n\n* WHEN...Until 945 PM HST.\n\n* IMPACTS...Minor flooding on roads, poor drainage areas, and in\nstreams. Water over roadways.\n\n* ADDITIONAL DETAILS...\n- At 618 PM HST, emergency management reported that portions of\nHighway 11 remain closed in both directions due to flooding.\nLocations include between Pinao Street and Kaalualu Road in\nWaiohinu, as well as between Naalehu and Ninole. Kaalaiki Road\nremains closed near the intersection with Highway 11 in Naalehu.\nAreas of moderate rain will continue to move into southeast\nportions of the Big Island over the next few hours with rainfall\nrates generally 0.5 to 1 inch per hour.\n- Some locations that will experience flooding include...\nHawaiian Paradise Park, Hawaii Volcanoes National Park, Wood\nValley, Volcano, Pahala, Glenwood, Punaluu Beach, Kawa Flats,\nMountain View and Hawaiian Acres.",
       "confidence": "high",
       "tags": [
         "weather",
@@ -3663,14 +3529,14 @@
       ]
     },
     {
-      "event_id": "urn:oid:2.49.0.1.840.0.c8d16e6579ff0b48c4ef8d509d6941b496a392de.001.1",
+      "event_id": "urn:oid:2.49.0.1.840.0.73304bb0be784914e4426a27961a591ebe2d6bbe.001.1",
       "title": "US National Weather Service Active Alerts",
       "event_type": "natural_hazard",
       "subtype": "alert",
       "date_start": null,
       "date_updated": null,
       "country": "",
-      "region": "Molokai Windward",
+      "region": "Western Pima County Including Ajo/Organ Pipe Cactus National Monument; Tohono O'odham Nation including Sells; Upper Santa Cruz River and Altar Valleys including Nogales; Tucson Metro Area including Tucson/Green Valley/Marana/Vail; South Central Pinal County including Eloy/Picacho Peak State Park; Southeast Pinal County including Kearny/Mammoth/Oracle; Upper San Pedro River Valley including Sierra Vista/Benson; Eastern Cochise County Below 5000 Feet including Douglas/Willcox; Upper Gila River and Aravaipa Valleys including Clifton/Safford; White Mountains of Graham and Greenlee Counties including Hannagan Meadow; Galiuro and Pinaleno Mountains including Mount Graham; Chiricahua Mountains including Chiricahua National Monument; Dragoon/Mule/Huachuca and Santa Rita Mountains including Bisbee/Canelo Hills/Madera Canyon; Santa Catalina and Rincon Mountains including Mount Lemmon/Summerhaven; Baboquivari Mountains including Kitt Peak",
       "latitude": null,
       "longitude": null,
       "severity": "Severe",
@@ -3678,7 +3544,7 @@
       "source_name": "US National Weather Service Active Alerts",
       "source_url": "https://api.weather.gov/alerts/active",
       "source_record_url": "https://api.weather.gov/alerts/active",
-      "summary": "* LOCATIONS AFFECTED\n- Halawa Valley\n- Kalaupapa\n\n* WIND\n- LATEST LOCAL FORECAST: Equivalent Tropical Storm force wind\n- Peak Wind Forecast: 35-45 mph with gusts to 60 mph\n- Window for Tropical Storm force winds: until Sunday\nafternoon\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Potential for wind 39\nto 57 mph\n- The wind threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Plan for hazardous wind of equivalent tropical storm\nforce.\n- PREPARE: Last minute efforts to protect property should now\nbe complete. The area remains subject to limited wind\ndamage.\n- ACT: Now is the time to shelter from hazardous wind.\n\n- POTENTIAL IMPACTS: Unfolding\n- Potential impacts from the main wind event are unfolding.\n\n* STORM SURGE\n- No storm surge inundation forecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little to no storm\nsurge flooding\n- The storm surge threat has remained nearly steady from the\nprevious assessment.\n- PLAN: There is little to no threat of storm surge flooding.\nRough surf, coastal erosion, and life-threatening rip\ncurrents are possible.\n- PREPARE: Little to no preparations for storm surge flooding\nare needed.\n- ACT: Follow the instructions of local officials. Monitor\nforecasts.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from storm surge flooding.\n\n* FLOODING RAIN\n- LATEST LOCAL FORECAST: Flood Watch is in effect\n- Peak Rainfall Amounts: No additional significant rainfall\nforecast\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Little or no\npotential for flooding rain\n- The flooding rain threat has remained nearly steady from\nthe previous assessment.\n- PLAN: There is little or no potential for flooding rain.\n- PREPARE: Little to no preparations are needed to protect\nagainst flooding rain at this time.\n- ACT: Monitor for changes to the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from flooding rain.\n\n* TORNADO\n- LATEST LOCAL FORECAST:\n- Situation is unfavorable for tornadoes\n\n- THREAT TO LIFE AND PROPERTY THAT INCLUDES TYPICAL FORECAST\nUNCERTAINTY IN TRACK, SIZE AND INTENSITY: Tornadoes not expected\n- The tornado threat has remained nearly steady from the\nprevious assessment.\n- PLAN: Tornadoes are not expected. Showers and thunderstorms\nwith gusty winds may still occur.\n- PREPARE: Little to no preparations needed to protect\nagainst tornadoes at this time. Keep informed of the latest\ntornado situation.\n- ACT: Listen for changes in the forecast.\n\n- POTENTIAL IMPACTS: Little to None\n- Little to no potential impacts from tornadoes.\n\n* FOR MORE INFORMATION:\n- https://www.weather.gov/hfo",
+      "summary": "* WHAT...Flash flooding caused by excessive rainfall continues to be\npossible.\n\n* WHERE...For all of southeast Arizona, including the following\nareas, Baboquivari Mountains, Catalina and Rincon Mountains,\nChiricahua Mountains, Dragoon and Mule and Huachuca and Santa Rita\nMountains, Eastern Cochise County below 5000 feet, Galiuro and\nPinaleno Mountains, South Central Pinal County, Southeast Pinal\nCounty, Tohono O'odham Nation, Tucson Metro Area, Upper Gila River\nValley, Upper San Pedro River Valley, Upper Santa Cruz River\nValley/Altar Valley, Western Pima County and White Mountains of\nGraham and Greenlee Counties.\n\n* WHEN...From Monday morning through Tuesday evening.\n\n* IMPACTS...Excessive runoff may result in flooding of rivers,\ncreeks, streams, and other low-lying and flood-prone locations.\n\n* ADDITIONAL DETAILS...\n- Deep tropical moisture will combine with an approaching upper low\nand trough, resulting in areas of heavy rainfall. Rainfall totals\nof 1 to 2 inches are possible across most of southeast Arizona,\nwith locally heavier amounts under the stronger thunderstorms.\n- http://www.weather.gov/safety/flood",
       "confidence": "high",
       "tags": [
         "weather",
