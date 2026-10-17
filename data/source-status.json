@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T04:20:25.676265Z",
+  "generated_at": "2026-10-17T10:37:35.192308Z",
   "sources": [
     {
       "id": "usgs-earthquakes-significant",
       "status": "live",
-      "event_count": 15
+      "event_count": 16
     },
     {
       "id": "usgs-earthquakes-all-day",
